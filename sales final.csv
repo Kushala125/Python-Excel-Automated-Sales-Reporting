@@ -1,0 +1,1429 @@
+ordernumber,orderdate,year,month,month_name,country,territory,productline,dealsize,quantityordered,priceeach,sales,calc_sales,sales_valid
+10100,2003-01-06,2003,1,Jan,Usa,Unknown,Vintage Cars,Medium,50,67.8,3390.0,3390.0,True
+10100,2003-01-06,2003,1,Jan,Usa,Unknown,Vintage Cars,Small,49,34.47,1689.03,1689.03,True
+10100,2003-01-06,2003,1,Jan,Usa,Unknown,Vintage Cars,Small,22,86.51,1903.22,1903.22,True
+10101,2003-01-09,2003,1,Jan,Germany,Emea,Vintage Cars,Small,46,53.76,2472.96,2472.96,True
+10101,2003-01-09,2003,1,Jan,Germany,Emea,Vintage Cars,Small,45,31.2,1404.0,1404.0,True
+10102,2003-01-10,2003,1,Jan,Usa,Unknown,Vintage Cars,Small,41,50.14,2055.74,2055.74,True
+10103,2003-01-29,2003,1,Jan,Norway,Emea,Vintage Cars,Small,35,57.46,2011.1,2011.1,True
+10103,2003-01-29,2003,1,Jan,Norway,Emea,Trucks And Buses,Small,22,54.09,1189.98,1189.98,True
+10103,2003-01-29,2003,1,Jan,Norway,Emea,Trucks And Buses,Medium,45,75.63,3403.35,3403.35,True
+10103,2003-01-29,2003,1,Jan,Norway,Emea,Vintage Cars,Small,41,47.29,1938.89,1938.89,True
+10103,2003-01-29,2003,1,Jan,Norway,Emea,Vintage Cars,Small,27,83.07,2242.89,2242.89,True
+10104,2003-01-31,2003,1,Jan,Spain,Emea,Trains,Medium,49,65.87,3227.63,3227.63,True
+10104,2003-01-31,2003,1,Jan,Spain,Emea,Trucks And Buses,Small,35,47.62,1666.7,1666.7,True
+10104,2003-01-31,2003,1,Jan,Spain,Emea,Classic Cars,Small,44,39.6,1742.4,1742.4,True
+10104,2003-01-31,2003,1,Jan,Spain,Emea,Classic Cars,Small,35,55.49,1942.15,1942.15,True
+10104,2003-01-31,2003,1,Jan,Spain,Emea,Trains,Small,32,53.31,1705.92,1705.92,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Vintage Cars,Medium,41,82.5,3382.5,3382.5,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Ships,Small,29,70.15,2034.35,2034.35,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Vintage Cars,Medium,44,72.58,3193.52,3193.52,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Ships,Small,41,70.67,2897.47,2897.47,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Ships,Medium,39,81.14,3164.46,3164.46,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Ships,Small,31,65.77,2038.87,2038.87,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Vintage Cars,Medium,50,79.67,3983.5,3983.5,True
+10105,2003-02-11,2003,2,Feb,Denmark,Emea,Ships,Small,25,56.78,1419.5,1419.5,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Vintage Cars,Small,31,52.6,1630.6,1630.6,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Medium,34,90.39,3073.26,3073.26,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Small,48,52.64,2526.72,2526.72,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Small,48,61.44,2949.12,2949.12,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Small,28,88.63,2481.64,2481.64,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Ships,Medium,41,83.44,3421.04,3421.04,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Vintage Cars,Small,39,40.15,1565.85,1565.85,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Medium,49,74.68,3659.32,3659.32,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Vintage Cars,Small,33,72.92,2406.36,2406.36,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Small,26,63.76,1657.76,1657.76,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Medium,50,64.83,3241.5,3241.5,True
+10106,2003-02-17,2003,2,Feb,Italy,Emea,Planes,Medium,44,74.4,3273.6,3273.6,True
+10107,2003-02-24,2003,2,Feb,Usa,Unknown,Motorcycles,Small,20,92.9,1858.0,1858.0,True
+10107,2003-02-24,2003,2,Feb,Usa,Unknown,Motorcycles,Small,29,70.87,2055.23,2055.23,True
+10107,2003-02-24,2003,2,Feb,Usa,Unknown,Motorcycles,Medium,38,83.03,3155.14,3155.14,True
+10107,2003-02-24,2003,2,Feb,Usa,Unknown,Motorcycles,Small,30,95.7,2871.0,2871.0,True
+10107,2003-02-24,2003,2,Feb,Usa,Unknown,Motorcycles,Medium,39,99.91,3896.49,3896.49,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Motorcycles,Small,27,43.45,1173.15,1173.15,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Classic Cars,Medium,39,89.38,3485.82,3485.82,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Classic Cars,Small,26,68.35,1777.1,1777.1,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Motorcycles,Small,34,82.99,2821.66,2821.66,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Classic Cars,Small,30,63.07,1892.1,1892.1,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Classic Cars,Small,31,68.71,2130.01,2130.01,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Classic Cars,Medium,38,82.39,3130.82,3130.82,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Motorcycles,Small,35,58.87,2060.45,2060.45,True
+10108,2003-03-03,2003,3,Mar,Philippines,Japan,Motorcycles,Small,43,67.77,2914.11,2914.11,True
+10109,2003-03-10,2003,3,Mar,Usa,Unknown,Classic Cars,Small,29,32.1,930.9,930.9,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Classic Cars,Medium,43,78.15,3360.45,3360.45,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Classic Cars,Small,27,73.62,1987.74,1987.74,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Vintage Cars,Small,32,50.25,1608.0,1608.0,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Vintage Cars,Small,39,44.35,1729.65,1729.65,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Vintage Cars,Small,20,35.51,710.2,710.1999999999999,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Classic Cars,Small,29,59.37,1721.73,1721.73,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Classic Cars,Medium,36,85.25,3069.0,3069.0,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Vintage Cars,Small,28,89.27,2499.56,2499.56,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Classic Cars,Small,42,61.29,2574.18,2574.18,True
+10110,2003-03-18,2003,3,Mar,Uk,Emea,Vintage Cars,Small,48,34.47,1654.56,1654.56,True
+10111,2003-03-25,2003,3,Mar,Usa,Unknown,Vintage Cars,Small,26,86.68,2253.68,2253.68,True
+10111,2003-03-25,2003,3,Mar,Usa,Unknown,Vintage Cars,Small,28,64.33,1801.24,1801.24,True
+10111,2003-03-25,2003,3,Mar,Usa,Unknown,Vintage Cars,Small,48,49.06,2354.88,2354.88,True
+10111,2003-03-25,2003,3,Mar,Usa,Unknown,Vintage Cars,Medium,33,99.66,3288.78,3288.78,True
+10113,2003-03-26,2003,3,Mar,Usa,Unknown,Vintage Cars,Small,50,49.81,2490.5,2490.5,True
+10113,2003-03-26,2003,3,Mar,Usa,Unknown,Trucks And Buses,Small,23,68.52,1575.96,1575.96,True
+10114,2003-04-01,2003,4,Apr,France,Emea,Trucks And Buses,Small,28,55.73,1560.44,1560.44,True
+10114,2003-04-01,2003,4,Apr,France,Emea,Classic Cars,Small,24,30.06,721.44,721.4399999999999,True
+10114,2003-04-01,2003,4,Apr,France,Emea,Trucks And Buses,Medium,45,68.67,3090.15,3090.15,True
+10115,2003-04-04,2003,4,Apr,Usa,Unknown,Classic Cars,Medium,47,69.36,3259.92,3259.92,True
+10116,2003-04-11,2003,4,Apr,Belgium,Emea,Trains,Small,27,63.38,1711.26,1711.26,True
+10117,2003-04-16,2003,4,Apr,Singapore,Japan,Ships,Medium,38,79.68,3027.84,3027.84,True
+10117,2003-04-16,2003,4,Apr,Singapore,Japan,Ships,Medium,45,83.42,3753.9,3753.9,True
+10117,2003-04-16,2003,4,Apr,Singapore,Japan,Ships,Small,50,43.68,2184.0,2184.0,True
+10117,2003-04-16,2003,4,Apr,Singapore,Japan,Trains,Small,21,95.8,2011.8,2011.8,True
+10117,2003-04-16,2003,4,Apr,Singapore,Japan,Trains,Small,21,49.21,1033.41,1033.41,True
+10117,2003-04-16,2003,4,Apr,Singapore,Japan,Vintage Cars,Small,23,97.42,2240.66,2240.66,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Vintage Cars,Medium,35,90.57,3169.95,3169.95,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Planes,Small,28,70.29,1968.12,1968.12,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Vintage Cars,Medium,35,87.62,3066.7,3066.7,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Ships,Small,25,76.67,1916.75,1916.75,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Ships,Small,38,65.77,2499.26,2499.26,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Vintage Cars,Small,20,72.98,1459.6,1459.6,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Ships,Small,29,94.14,2730.06,2730.06,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Planes,Small,41,59.6,2443.6,2443.6,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Ships,Small,21,89.46,1878.66,1878.66,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Planes,Small,26,59.22,1539.72,1539.72,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Planes,Small,28,48.17,1348.76,1348.76,True
+10119,2003-04-28,2003,4,Apr,Austria,Emea,Vintage Cars,Small,27,99.52,2687.04,2687.04,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Planes,Small,29,71.81,2082.49,2082.49,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Vintage Cars,Small,49,50.62,2480.38,2480.38,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Motorcycles,Small,46,58.15,2674.9,2674.9,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Motorcycles,Small,29,96.34,2793.86,2793.86,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Vintage Cars,Small,29,72.23,2094.67,2094.67,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Planes,Small,29,85.49,2479.21,2479.21,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Planes,Medium,47,82.21,3863.87,3863.87,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Motorcycles,Medium,35,98.05,3431.75,3431.75,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Motorcycles,Small,34,83.79,2848.86,2848.86,True
+10120,2003-04-29,2003,4,Apr,Australia,Apac,Planes,Medium,43,76.0,3268.0,3268.0,True
+10121,2003-05-07,2003,5,May,France,Emea,Motorcycles,Small,32,76.88,2460.16,2460.16,True
+10121,2003-05-07,2003,5,May,France,Emea,Motorcycles,Medium,44,74.85,3293.4,3293.4,True
+10121,2003-05-07,2003,5,May,France,Emea,Motorcycles,Small,34,81.35,2765.9,2765.9,True
+10121,2003-05-07,2003,5,May,France,Emea,Motorcycles,Small,25,86.74,2168.5,2168.5,True
+10122,2003-05-08,2003,5,May,France,Emea,Motorcycles,Small,31,44.66,1384.46,1384.46,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Small,34,50.21,1707.14,1707.14,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Small,39,30.96,1207.44,1207.44,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Medium,43,72.38,3112.34,3112.34,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Small,21,73.17,1536.57,1536.57,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Small,29,71.14,2063.06,2063.06,True
+10122,2003-05-08,2003,5,May,France,Emea,Motorcycles,Small,35,49.74,1740.9,1740.9,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Small,32,63.84,2042.88,2042.88,True
+10122,2003-05-08,2003,5,May,France,Emea,Classic Cars,Medium,37,99.82,3693.34,3693.34,True
+10123,2003-05-20,2003,5,May,France,Emea,Classic Cars,Small,50,59.87,2993.5,2993.5,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Classic Cars,Small,25,93.95,2348.75,2348.75,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Classic Cars,Small,22,77.9,1713.8,1713.8,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Vintage Cars,Small,46,33.23,1528.58,1528.58,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Vintage Cars,Small,22,45.25,995.5,995.5,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Vintage Cars,Medium,36,85.59,3081.24,3081.24,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Vintage Cars,Small,45,37.84,1702.8,1702.8,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Classic Cars,Small,32,72.7,2326.4,2326.4,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Vintage Cars,Small,42,53.88,2262.96,2262.96,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Classic Cars,Small,23,57.73,1327.79,1327.79,True
+10124,2003-05-21,2003,5,May,Usa,Unknown,Classic Cars,Medium,49,83.04,4068.96,4068.960000000001,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Vintage Cars,Medium,46,73.7,3390.2,3390.2,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Vintage Cars,Small,43,53.83,2314.69,2314.69,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Vintage Cars,Medium,38,82.34,3128.92,3128.92,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Vintage Cars,Small,30,97.39,2921.7,2921.7,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Trucks And Buses,Medium,43,96.31,4141.33,4141.33,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Vintage Cars,Small,42,54.99,2309.58,2309.58,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Trucks And Buses,Small,43,65.02,2795.86,2795.86,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Trucks And Buses,Small,26,62.7,1630.2,1630.2,True
+10126,2003-05-28,2003,5,May,Spain,Emea,Vintage Cars,Small,31,90.17,2795.27,2795.27,True
+10127,2003-06-03,2003,6,Jun,Usa,Unknown,Classic Cars,Small,20,96.99,1939.8,1939.8,True
+10127,2003-06-03,2003,6,Jun,Usa,Unknown,Classic Cars,Small,20,60.69,1213.8,1213.8,True
+10127,2003-06-03,2003,6,Jun,Usa,Unknown,Trains,Medium,46,69.12,3179.52,3179.52,True
+10127,2003-06-03,2003,6,Jun,Usa,Unknown,Trucks And Buses,Small,45,51.95,2337.75,2337.75,True
+10127,2003-06-03,2003,6,Jun,Usa,Unknown,Trains,Small,29,70.84,2054.36,2054.36,True
+10127,2003-06-03,2003,6,Jun,Usa,Unknown,Classic Cars,Small,39,38.19,1489.41,1489.41,True
+10128,2003-06-06,2003,6,Jun,Spain,Emea,Vintage Cars,Medium,43,92.16,3962.88,3962.88,True
+10128,2003-06-06,2003,6,Jun,Spain,Emea,Ships,Medium,32,97.0,3104.0,3104.0,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Ships,Small,30,85.41,2562.3,2562.3,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Ships,Medium,42,91.15,3828.3,3828.3,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Ships,Small,32,64.97,2079.04,2079.04,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Ships,Medium,45,85.29,3838.05,3838.05,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Vintage Cars,Medium,41,94.71,3883.11,3883.11,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Ships,Small,31,60.0,1860.0,1860.0,True
+10129,2003-06-12,2003,6,Jun,Uk,Emea,Vintage Cars,Medium,50,77.99,3899.5,3899.5,True
+10131,2003-06-16,2003,6,Jun,Usa,Unknown,Planes,Small,35,67.14,2349.9,2349.9,True
+10131,2003-06-16,2003,6,Jun,Usa,Unknown,Planes,Medium,50,81.89,4094.5,4094.5,True
+10130,2003-06-16,2003,6,Jun,Usa,Unknown,Ships,Medium,40,96.34,3853.6,3853.6,True
+10131,2003-06-16,2003,6,Jun,Usa,Unknown,Planes,Small,21,41.71,875.91,875.91,True
+10131,2003-06-16,2003,6,Jun,Usa,Unknown,Vintage Cars,Small,29,59.18,1716.22,1716.22,True
+10131,2003-06-16,2003,6,Jun,Usa,Unknown,Ships,Small,22,85.99,1891.78,1891.78,True
+10131,2003-06-16,2003,6,Jun,Usa,Unknown,Planes,Small,26,85.13,2213.38,2213.38,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Planes,Small,24,77.64,1863.36,1863.36,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Planes,Medium,46,77.52,3565.92,3565.92,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Planes,Medium,41,94.1,3858.1,3858.1,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Vintage Cars,Small,49,57.1,2797.9,2797.9,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Vintage Cars,Small,27,50.19,1355.13,1355.13,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Planes,Medium,49,69.27,3394.23,3394.23,True
+10133,2003-06-27,2003,6,Jun,Spain,Emea,Planes,Small,27,99.67,2691.09,2691.09,True
+10134,2003-07-01,2003,7,Jul,France,Emea,Motorcycles,Medium,35,93.54,3273.9,3273.9,True
+10134,2003-07-01,2003,7,Jul,France,Emea,Motorcycles,Medium,41,94.74,3884.34,3884.34,True
+10134,2003-07-01,2003,7,Jul,France,Emea,Motorcycles,Medium,43,83.03,3570.29,3570.29,True
+10134,2003-07-01,2003,7,Jul,France,Emea,Motorcycles,Small,30,61.78,1853.4,1853.4,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Small,27,66.13,1785.51,1785.51,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Small,20,35.87,717.4,717.4,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Medium,48,79.31,3806.88,3806.88,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Motorcycles,Small,30,89.8,2694.0,2694.0,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Motorcycles,Small,29,61.64,1787.56,1787.56,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Medium,45,78.0,3510.0,3510.0,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Motorcycles,Small,45,50.36,2266.2,2266.2,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Motorcycles,Medium,44,96.0,4224.0,4224.0,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Small,23,87.31,2008.13,2008.13,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Small,29,97.89,2838.81,2838.81,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Motorcycles,Small,33,40.23,1327.59,1327.59,True
+10135,2003-07-02,2003,7,Jul,Usa,Unknown,Classic Cars,Small,24,75.01,1800.24,1800.24,True
+10137,2003-07-10,2003,7,Jul,France,Emea,Classic Cars,Medium,44,99.55,4380.2,4380.2,True
+10137,2003-07-10,2003,7,Jul,France,Emea,Classic Cars,Small,26,49.81,1295.06,1295.06,True
+10139,2003-07-16,2003,7,Jul,Australia,Apac,Vintage Cars,Small,20,71.2,1424.0,1424.0,True
+10139,2003-07-16,2003,7,Jul,Australia,Apac,Vintage Cars,Small,20,90.06,1801.2,1801.2,True
+10139,2003-07-16,2003,7,Jul,Australia,Apac,Vintage Cars,Small,49,43.13,2113.37,2113.37,True
+10140,2003-07-24,2003,7,Jul,Usa,Unknown,Vintage Cars,Small,29,43.27,1254.83,1254.83,True
+10140,2003-07-24,2003,7,Jul,Usa,Unknown,Trucks And Buses,Small,28,60.76,1701.28,1701.28,True
+10140,2003-07-24,2003,7,Jul,Usa,Unknown,Trucks And Buses,Small,46,61.99,2851.54,2851.54,True
+10141,2003-08-01,2003,8,Aug,Finland,Emea,Classic Cars,Small,21,42.43,891.03,891.03,True
+10141,2003-08-01,2003,8,Aug,Finland,Emea,Classic Cars,Medium,40,94.62,3784.8,3784.8,True
+10141,2003-08-01,2003,8,Aug,Finland,Emea,Classic Cars,Small,20,54.33,1086.6,1086.6,True
+10141,2003-08-01,2003,8,Aug,Finland,Emea,Trucks And Buses,Small,24,45.99,1103.76,1103.76,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Trains,Medium,42,74.57,3131.94,3131.94,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Vintage Cars,Medium,49,98.25,4814.25,4814.25,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Vintage Cars,Small,24,70.22,1685.28,1685.28,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Ships,Medium,38,85.41,3245.58,3245.58,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Trains,Small,22,97.81,2151.82,2151.82,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Ships,Medium,43,84.01,3612.43,3612.43,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Ships,Small,39,44.23,1724.97,1724.97,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Ships,Small,41,64.0,2624.0,2624.0,True
+10142,2003-08-08,2003,8,Aug,Usa,Unknown,Trains,Small,42,49.79,2091.18,2091.18,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Vintage Cars,Small,33,77.59,2560.47,2560.47,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Planes,Small,37,50.65,1874.05,1874.05,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Planes,Small,34,85.87,2919.58,2919.58,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Planes,Small,26,82.77,2152.02,2152.02,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Vintage Cars,Small,34,36.66,1246.44,1246.44,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Ships,Small,31,85.29,2643.99,2643.99,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Planes,Small,28,96.0,2688.0,2688.0,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Planes,Small,27,60.97,1646.19,1646.19,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Vintage Cars,Small,23,80.51,1851.73,1851.73,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Planes,Small,28,66.19,1853.32,1853.32,True
+10143,2003-08-10,2003,8,Aug,Usa,Unknown,Ships,Medium,46,74.84,3442.64,3442.64,True
+10144,2003-08-13,2003,8,Aug,Belgium,Emea,Vintage Cars,Small,20,81.86,1637.2,1637.2,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Medium,47,83.03,3902.41,3902.41,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Planes,Medium,40,87.54,3501.6,3501.6,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Small,31,35.8,1109.8,1109.8,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Medium,45,83.26,3746.7,3746.7,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Medium,33,93.9,3098.7,3098.7,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Small,27,60.95,1645.65,1645.65,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Planes,Small,33,84.77,2797.41,2797.41,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Medium,43,95.8,4119.4,4119.4,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Small,30,49.67,1490.1,1490.1,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Planes,Small,30,85.32,2559.6,2559.6,True
+10145,2003-08-25,2003,8,Aug,Usa,Unknown,Motorcycles,Medium,38,81.36,3091.68,3091.68,True
+10146,2003-09-03,2003,9,Sep,Usa,Unknown,Motorcycles,Medium,47,67.14,3155.58,3155.58,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Medium,33,97.89,3230.37,3230.37,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Medium,36,86.04,3097.44,3097.44,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Small,25,42.67,1066.75,1066.75,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Small,26,82.39,2142.14,2142.14,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Small,30,68.58,2057.4,2057.4,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Small,21,63.84,1340.64,1340.64,True
+10147,2003-09-05,2003,9,Sep,Usa,Unknown,Classic Cars,Small,31,64.67,2004.77,2004.77,True
+10148,2003-09-11,2003,9,Sep,Australia,Apac,Classic Cars,Small,29,81.25,2356.25,2356.25,True
+10148,2003-09-11,2003,9,Sep,Australia,Apac,Classic Cars,Small,47,56.85,2671.95,2671.95,True
+10148,2003-09-11,2003,9,Sep,Australia,Apac,Classic Cars,Small,25,60.26,1506.5,1506.5,True
+10148,2003-09-11,2003,9,Sep,Australia,Apac,Classic Cars,Small,21,73.6,1545.6,1545.6,True
+10148,2003-09-11,2003,9,Sep,Australia,Apac,Classic Cars,Small,31,73.62,2282.22,2282.22,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Small,26,38.98,1013.48,1013.48,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Small,20,90.57,1811.4,1811.4,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Small,30,58.22,1746.6,1746.6,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Medium,42,94.25,3958.5,3958.5,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Small,36,33.19,1194.84,1194.84,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Small,49,49.28,2414.72,2414.72,True
+10149,2003-09-12,2003,9,Sep,Usa,Unknown,Vintage Cars,Small,24,62.36,1496.64,1496.64,True
+10150,2003-09-19,2003,9,Sep,Singapore,Japan,Trucks And Buses,Small,49,58.18,2850.82,2850.82,True
+10150,2003-09-19,2003,9,Sep,Singapore,Japan,Vintage Cars,Small,30,49.97,1499.1,1499.1,True
+10150,2003-09-19,2003,9,Sep,Singapore,Japan,Vintage Cars,Medium,47,91.18,4285.46,4285.46,True
+10150,2003-09-19,2003,9,Sep,Singapore,Japan,Vintage Cars,Small,30,42.76,1282.8,1282.8,True
+10151,2003-09-21,2003,9,Sep,Finland,Emea,Classic Cars,Small,30,40.31,1209.3,1209.3,True
+10151,2003-09-21,2003,9,Sep,Finland,Emea,Trucks And Buses,Small,39,69.28,2701.92,2701.92,True
+10151,2003-09-21,2003,9,Sep,Finland,Emea,Trucks And Buses,Small,41,63.85,2617.85,2617.85,True
+10152,2003-09-25,2003,9,Sep,Australia,Apac,Trains,Small,33,50.95,1681.35,1681.35,True
+10152,2003-09-25,2003,9,Sep,Australia,Apac,Classic Cars,Small,25,65.31,1632.75,1632.75,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Trains,Small,29,88.74,2573.46,2573.46,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Vintage Cars,Small,22,83.38,1834.36,1834.36,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Ships,Medium,50,88.15,4407.5,4407.5,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Ships,Small,43,64.67,2780.81,2780.81,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Ships,Medium,50,60.06,3003.0,3003.0,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Trains,Small,31,57.41,1779.71,1779.71,True
+10153,2003-09-28,2003,9,Sep,Spain,Emea,Ships,Small,31,87.48,2711.88,2711.88,True
+10154,2003-10-02,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,31,91.17,2826.27,2826.27,True
+10154,2003-10-02,2003,10,Oct,Usa,Unknown,Ships,Small,36,64.33,2315.88,2315.88,True
+10300,2003-10-04,2003,10,Oct,Germany,Emea,Classic Cars,Small,31,58.78,1822.18,1822.18,True
+10300,2003-10-04,2003,10,Oct,Germany,Emea,Classic Cars,Medium,49,78.8,3861.2,3861.2,True
+10300,2003-10-04,2003,10,Oct,Germany,Emea,Classic Cars,Medium,41,92.4,3788.4,3788.4,True
+10300,2003-10-04,2003,10,Oct,Germany,Emea,Classic Cars,Small,22,76.61,1685.42,1685.42,True
+10301,2003-10-05,2003,10,Oct,Norway,Emea,Classic Cars,Small,22,96.37,2120.14,2120.14,True
+10301,2003-10-05,2003,10,Oct,Norway,Emea,Classic Cars,Small,22,51.32,1129.04,1129.04,True
+10301,2003-10-05,2003,10,Oct,Norway,Emea,Classic Cars,Small,48,34.36,1649.28,1649.28,True
+10301,2003-10-05,2003,10,Oct,Norway,Emea,Classic Cars,Small,27,72.02,1944.54,1944.54,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Planes,Medium,44,85.87,3778.28,3778.28,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Ships,Medium,44,79.14,3482.16,3482.16,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Ships,Small,32,91.43,2925.76,2925.76,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Planes,Small,23,72.62,1670.26,1670.26,True
+10302,2003-10-06,2003,10,Oct,Uk,Emea,Vintage Cars,Medium,38,89.27,3392.26,3392.26,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Planes,Medium,44,77.11,3392.84,3392.84,True
+10302,2003-10-06,2003,10,Oct,Uk,Emea,Classic Cars,Small,23,72.7,1672.1,1672.1,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Vintage Cars,Small,37,67.93,2513.41,2513.41,True
+10302,2003-10-06,2003,10,Oct,Uk,Emea,Classic Cars,Medium,48,74.48,3575.04,3575.04,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Planes,Small,34,49.16,1671.44,1671.44,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Planes,Medium,43,86.4,3715.2,3715.2,True
+10155,2003-10-06,2003,10,Oct,Finland,Emea,Vintage Cars,Small,34,55.89,1900.26,1900.26,True
+10156,2003-10-08,2003,10,Oct,Spain,Emea,Vintage Cars,Small,20,41.02,820.4,820.4000000000001,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Classic Cars,Small,21,81.21,1705.41,1705.41,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Motorcycles,Small,27,80.34,2169.18,2169.18,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Classic Cars,Small,23,67.1,1543.3,1543.3,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Motorcycles,Small,21,64.66,1357.86,1357.86,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Motorcycles,Small,42,51.48,2162.16,2162.16,True
+10158,2003-10-10,2003,10,Oct,Norway,Emea,Motorcycles,Small,22,67.03,1474.66,1474.66,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Motorcycles,Small,31,71.6,2219.6,2219.6,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Classic Cars,Medium,50,69.8,3490.0,3490.0,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Classic Cars,Small,24,73.42,1762.08,1762.08,True
+10159,2003-10-10,2003,10,Oct,Usa,Unknown,Motorcycles,Small,35,35.4,1239.0,1239.0,True
+10160,2003-10-11,2003,10,Oct,Usa,Unknown,Classic Cars,Small,42,37.0,1554.0,1554.0,True
+10160,2003-10-11,2003,10,Oct,Usa,Unknown,Classic Cars,Medium,38,88.55,3364.9,3364.9,True
+10161,2003-10-17,2003,10,Oct,Denmark,Emea,Classic Cars,Small,25,80.54,2013.5,2013.5,True
+10161,2003-10-17,2003,10,Oct,Denmark,Emea,Classic Cars,Small,37,72.76,2692.12,2692.12,True
+10161,2003-10-17,2003,10,Oct,Denmark,Emea,Classic Cars,Small,20,77.05,1541.0,1541.0,True
+10161,2003-10-17,2003,10,Oct,Denmark,Emea,Classic Cars,Small,23,53.33,1226.59,1226.59,True
+10162,2003-10-18,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,43,36.29,1560.47,1560.47,True
+10162,2003-10-18,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,27,69.62,1879.74,1879.74,True
+10162,2003-10-18,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,37,38.98,1442.26,1442.26,True
+10162,2003-10-18,2003,10,Oct,Usa,Unknown,Vintage Cars,Medium,48,91.44,4389.12,4389.12,True
+10162,2003-10-18,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,37,27.22,1007.14,1007.14,True
+10162,2003-10-18,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,45,51.21,2304.45,2304.45,True
+10163,2003-10-20,2003,10,Oct,Usa,Unknown,Vintage Cars,Medium,42,91.55,3845.1,3845.1,True
+10163,2003-10-20,2003,10,Oct,Usa,Unknown,Vintage Cars,Medium,48,69.96,3358.08,3358.08,True
+10164,2003-10-21,2003,10,Oct,Austria,Emea,Trucks And Buses,Medium,36,99.17,3570.12,3570.12,True
+10164,2003-10-21,2003,10,Oct,Austria,Emea,Vintage Cars,Small,25,53.83,1345.75,1345.75,True
+10164,2003-10-21,2003,10,Oct,Austria,Emea,Trucks And Buses,Small,49,54.94,2692.06,2692.06,True
+10166,2003-10-21,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,26,73.73,1916.98,1916.98,True
+10164,2003-10-21,2003,10,Oct,Austria,Emea,Classic Cars,Medium,39,81.93,3195.27,3195.27,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Classic Cars,Small,27,31.82,859.14,859.14,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Trains,Small,38,66.78,2537.64,2537.64,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Trucks And Buses,Small,31,71.1,2204.1,2204.1,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Classic Cars,Small,24,99.36,2384.64,2384.64,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Trucks And Buses,Small,48,45.99,2207.52,2207.52,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Trains,Small,44,53.44,2351.36,2351.36,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Classic Cars,Small,25,69.36,1734.0,1734.0,True
+10165,2003-10-22,2003,10,Oct,Singapore,Japan,Trucks And Buses,Medium,48,94.92,4556.16,4556.16,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Motorcycles,Small,29,75.41,2186.89,2186.89,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,31,73.61,2281.91,2281.91,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Planes,Medium,48,78.25,3756.0,3756.0,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Planes,Medium,39,82.91,3233.49,3233.49,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Planes,Small,28,98.65,2762.2,2762.2,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Vintage Cars,Small,48,51.93,2492.64,2492.64,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Planes,Small,27,73.02,1971.54,1971.54,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Motorcycles,Small,46,61.18,2814.28,2814.28,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Planes,Small,21,70.96,1490.16,1490.16,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Planes,Medium,48,96.0,4608.0,4608.0,True
+10168,2003-10-28,2003,10,Oct,Usa,Unknown,Motorcycles,Medium,36,96.66,3479.76,3479.76,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Motorcycles,Small,38,68.39,2598.82,2598.82,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Motorcycles,Medium,48,80.55,3866.4,3866.4,True
+10170,2003-11-04,2003,11,Nov,Austria,Emea,Classic Cars,Small,20,63.14,1262.8,1262.8,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Motorcycles,Small,26,39.83,1035.58,1035.58,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Classic Cars,Small,34,50.21,1707.14,1707.14,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Classic Cars,Small,24,94.58,2269.92,2269.92,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Classic Cars,Small,36,63.84,2298.24,2298.24,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Motorcycles,Small,38,74.11,2816.18,2816.18,True
+10169,2003-11-04,2003,11,Nov,Australia,Apac,Classic Cars,Small,32,70.76,2264.32,2264.32,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,26,57.51,1495.26,1495.26,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,31,89.01,2759.31,2759.31,True
+10172,2003-11-05,2003,11,Nov,Usa,Unknown,Classic Cars,Small,22,74.51,1639.22,1639.22,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,35,33.23,1163.05,1163.05,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Classic Cars,Small,39,71.98,2807.22,2807.22,True
+10172,2003-11-05,2003,11,Nov,Usa,Unknown,Classic Cars,Small,32,75.69,2422.08,2422.08,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,21,75.46,1584.66,1584.66,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,27,41.22,1112.94,1112.94,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,48,44.21,2122.08,2122.08,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,31,31.53,977.43,977.43,True
+10172,2003-11-05,2003,11,Nov,Usa,Unknown,Classic Cars,Small,22,98.51,2167.22,2167.22,True
+10171,2003-11-05,2003,11,Nov,Canada,Unknown,Classic Cars,Small,36,35.49,1277.64,1277.64,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,29,95.24,2761.96,2761.96,True
+10172,2003-11-05,2003,11,Nov,Usa,Unknown,Classic Cars,Small,24,81.33,1951.92,1951.92,True
+10173,2003-11-05,2003,11,Nov,Italy,Emea,Vintage Cars,Small,28,53.72,1504.16,1504.16,True
+10172,2003-11-05,2003,11,Nov,Usa,Unknown,Classic Cars,Small,34,42.76,1453.84,1453.84,True
+10175,2003-11-06,2003,11,Nov,Uk,Emea,Trucks And Buses,Medium,50,63.31,3165.5,3165.5,True
+10174,2003-11-06,2003,11,Nov,Australia,Apac,Vintage Cars,Small,49,44.78,2194.22,2194.22,True
+10175,2003-11-06,2003,11,Nov,Uk,Emea,Trucks And Buses,Small,29,74.98,2174.42,2174.42,True
+10175,2003-11-06,2003,11,Nov,Uk,Emea,Classic Cars,Medium,42,85.98,3611.16,3611.16,True
+10176,2003-11-06,2003,11,Nov,Italy,Emea,Classic Cars,Small,27,68.78,1857.06,1857.06,True
+10176,2003-11-06,2003,11,Nov,Italy,Emea,Trains,Small,38,64.44,2448.72,2448.72,True
+10176,2003-11-06,2003,11,Nov,Italy,Emea,Trains,Small,22,64.0,1408.0,1408.0,True
+10174,2003-11-06,2003,11,Nov,Australia,Apac,Trucks And Buses,Medium,48,93.34,4480.32,4480.32,True
+10175,2003-11-06,2003,11,Nov,Uk,Emea,Trucks And Buses,Small,41,69.28,2840.48,2840.48,True
+10175,2003-11-06,2003,11,Nov,Uk,Emea,Classic Cars,Small,37,31.12,1151.44,1151.44,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Vintage Cars,Medium,45,72.58,3266.1,3266.1,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Ships,Small,24,76.0,1824.0,1824.0,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Vintage Cars,Small,35,74.6,2611.0,2611.0,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Ships,Medium,44,92.16,4055.04,4055.04,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Ships,Small,31,88.34,2738.54,2738.54,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Ships,Small,32,76.62,2451.84,2451.84,True
+10177,2003-11-07,2003,11,Nov,Spain,Emea,Ships,Small,40,50.23,2009.2,2009.2,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Vintage Cars,Small,27,73.64,1988.28,1988.28,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Planes,Small,34,80.84,2748.56,2748.56,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Planes,Small,30,72.33,2169.9,2169.9,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Planes,Medium,45,76.25,3431.25,3431.25,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Vintage Cars,Small,21,72.12,1514.52,1514.52,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Ships,Medium,41,81.72,3350.52,3350.52,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Planes,Small,45,51.15,2301.75,2301.75,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Planes,Small,22,87.75,1930.5,1930.5,True
+10178,2003-11-08,2003,11,Nov,France,Emea,Ships,Medium,34,96.86,3293.24,3293.24,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,35,72.03,2521.05,2521.05,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,21,93.56,1964.76,1964.76,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Classic Cars,Small,28,71.14,1991.92,1991.92,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,29,86.13,2497.77,2497.77,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,25,64.2,1605.0,1605.0,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,34,45.46,1545.64,1545.64,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,21,50.36,1057.56,1057.56,True
+10180,2003-11-11,2003,11,Nov,France,Emea,Motorcycles,Small,28,68.55,1919.4,1919.4,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,31,36.74,1138.94,1138.94,True
+10181,2003-11-12,2003,11,Nov,Norway,Emea,Classic Cars,Small,30,82.82,2484.6,2484.6,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,33,86.31,2848.23,2848.23,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Classic Cars,Small,36,73.6,2649.6,2649.6,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,38,61.15,2323.7,2323.7,True
+10181,2003-11-12,2003,11,Nov,Norway,Emea,Classic Cars,Small,37,42.67,1578.79,1578.79,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Classic Cars,Medium,44,69.84,3072.96,3072.96,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,23,42.26,971.98,971.98,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Classic Cars,Medium,47,74.22,3488.34,3488.34,True
+10181,2003-11-12,2003,11,Nov,Norway,Emea,Classic Cars,Small,22,73.92,1626.24,1626.24,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,25,87.33,2183.25,2183.25,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Classic Cars,Medium,33,94.17,3107.61,3107.61,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,39,36.84,1436.76,1436.76,True
+10181,2003-11-12,2003,11,Nov,Norway,Emea,Classic Cars,Small,23,65.52,1506.96,1506.96,True
+10182,2003-11-12,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,32,54.45,1742.4,1742.4,True
+10181,2003-11-12,2003,11,Nov,Norway,Emea,Classic Cars,Small,20,81.4,1628.0,1628.0,True
+10181,2003-11-12,2003,11,Nov,Norway,Emea,Classic Cars,Small,34,53.83,1830.22,1830.22,True
+10183,2003-11-13,2003,11,Nov,Usa,Unknown,Vintage Cars,Medium,37,89.15,3298.55,3298.55,True
+10183,2003-11-13,2003,11,Nov,Usa,Unknown,Trucks And Buses,Small,21,96.84,2033.64,2033.64,True
+10183,2003-11-13,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,40,49.3,1972.0,1972.0,True
+10183,2003-11-13,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,39,68.08,2655.12,2655.12,True
+10183,2003-11-13,2003,11,Nov,Usa,Unknown,Trucks And Buses,Medium,49,64.64,3167.36,3167.36,True
+10183,2003-11-13,2003,11,Nov,Usa,Unknown,Classic Cars,Small,23,86.99,2000.77,2000.77,True
+10184,2003-11-14,2003,11,Nov,Spain,Emea,Trucks And Buses,Small,44,60.16,2647.04,2647.04,True
+10186,2003-11-14,2003,11,Nov,Uk,Emea,Planes,Small,28,52.14,1459.92,1459.92,True
+10186,2003-11-14,2003,11,Nov,Uk,Emea,Ships,Small,32,89.46,2862.72,2862.72,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Trains,Small,20,48.62,972.4,972.4,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Ships,Small,22,79.45,1747.9,1747.9,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Vintage Cars,Small,33,74.35,2453.55,2453.55,True
+10184,2003-11-14,2003,11,Nov,Spain,Emea,Trains,Small,48,50.95,2445.6,2445.6,True
+10184,2003-11-14,2003,11,Nov,Spain,Emea,Trucks And Buses,Small,33,62.77,2071.41,2071.41,True
+10186,2003-11-14,2003,11,Nov,Uk,Emea,Planes,Small,22,69.2,1522.4,1522.4,True
+10184,2003-11-14,2003,11,Nov,Spain,Emea,Classic Cars,Small,31,60.11,1863.41,1863.41,True
+10186,2003-11-14,2003,11,Nov,Uk,Emea,Ships,Small,24,99.57,2389.68,2389.68,True
+10186,2003-11-14,2003,11,Nov,Uk,Emea,Vintage Cars,Small,21,69.04,1449.84,1449.84,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Ships,Small,28,64.43,1804.04,1804.04,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Vintage Cars,Medium,47,77.24,3630.28,3630.28,True
+10184,2003-11-14,2003,11,Nov,Spain,Emea,Classic Cars,Small,42,31.82,1336.44,1336.44,True
+10186,2003-11-14,2003,11,Nov,Uk,Emea,Vintage Cars,Medium,36,85.54,3079.44,3079.44,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Ships,Small,39,57.82,2254.98,2254.98,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Ships,Small,30,94.4,2832.0,2832.0,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Trains,Medium,49,80.67,3952.83,3952.83,True
+10185,2003-11-14,2003,11,Nov,Usa,Unknown,Ships,Small,21,54.0,1134.0,1134.0,True
+10188,2003-11-18,2003,11,Nov,Norway,Emea,Motorcycles,Small,32,65.42,2093.44,2093.44,True
+10188,2003-11-18,2003,11,Nov,Norway,Emea,Motorcycles,Medium,44,98.89,4351.16,4351.16,True
+10188,2003-11-18,2003,11,Nov,Norway,Emea,Motorcycles,Medium,38,96.34,3660.92,3660.92,True
+10188,2003-11-18,2003,11,Nov,Norway,Emea,Motorcycles,Medium,40,91.4,3656.0,3656.0,True
+10190,2003-11-19,2003,11,Nov,Spain,Emea,Motorcycles,Medium,42,76.19,3199.98,3199.98,True
+10190,2003-11-19,2003,11,Nov,Spain,Emea,Motorcycles,Small,46,32.99,1517.54,1517.54,True
+10190,2003-11-19,2003,11,Nov,Spain,Emea,Motorcycles,Medium,42,85.72,3600.24,3600.24,True
+10190,2003-11-19,2003,11,Nov,Spain,Emea,Motorcycles,Small,40,66.72,2668.8,2668.8,True
+10192,2003-11-20,2003,11,Nov,Usa,Unknown,Classic Cars,Small,37,69.82,2583.34,2583.34,True
+10192,2003-11-20,2003,11,Nov,Usa,Unknown,Classic Cars,Small,30,30.59,917.7,917.7,True
+10191,2003-11-20,2003,11,Nov,Germany,Emea,Classic Cars,Small,30,64.64,1939.2,1939.2,True
+10192,2003-11-20,2003,11,Nov,Usa,Unknown,Classic Cars,Medium,46,83.6,3845.6,3845.6,True
+10192,2003-11-20,2003,11,Nov,Usa,Unknown,Classic Cars,Medium,45,90.86,4088.7,4088.7,True
+10191,2003-11-20,2003,11,Nov,Germany,Emea,Classic Cars,Small,44,66.29,2916.76,2916.76,True
+10192,2003-11-20,2003,11,Nov,Usa,Unknown,Classic Cars,Small,47,53.83,2530.01,2530.01,True
+10192,2003-11-20,2003,11,Nov,Usa,Unknown,Classic Cars,Small,32,72.77,2328.64,2328.64,True
+10191,2003-11-20,2003,11,Nov,Germany,Emea,Classic Cars,Small,48,60.01,2880.48,2880.48,True
+10191,2003-11-20,2003,11,Nov,Germany,Emea,Motorcycles,Medium,43,72.74,3127.82,3127.82,True
+10191,2003-11-20,2003,11,Nov,Germany,Emea,Classic Cars,Medium,36,94.88,3415.68,3415.68,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,42,59.33,2491.86,2491.86,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,32,79.37,2539.84,2539.84,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,24,51.84,1244.16,1244.16,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,20,50.62,1012.4,1012.4,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,28,93.21,2609.88,2609.88,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,46,53.37,2455.02,2455.02,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,24,97.55,2341.2,2341.2,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,26,29.21,759.46,759.46,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Classic Cars,Small,25,76.26,1906.5,1906.5,True
+10193,2003-11-21,2003,11,Nov,Australia,Apac,Vintage Cars,Small,22,41.03,902.66,902.66,True
+10195,2003-11-25,2003,11,Nov,Usa,Unknown,Classic Cars,Small,32,28.29,905.28,905.28,True
+10194,2003-11-25,2003,11,Nov,France,Emea,Trucks And Buses,Medium,45,70.49,3172.05,3172.05,True
+10195,2003-11-25,2003,11,Nov,Usa,Unknown,Trucks And Buses,Small,32,43.29,1385.28,1385.28,True
+10194,2003-11-25,2003,11,Nov,France,Emea,Classic Cars,Small,26,89.01,2314.26,2314.26,True
+10194,2003-11-25,2003,11,Nov,France,Emea,Trucks And Buses,Small,39,54.94,2142.66,2142.66,True
+10195,2003-11-25,2003,11,Nov,Usa,Unknown,Trains,Small,33,54.68,1804.44,1804.44,True
+10195,2003-11-25,2003,11,Nov,Usa,Unknown,Classic Cars,Small,44,66.47,2924.68,2924.68,True
+10194,2003-11-25,2003,11,Nov,France,Emea,Vintage Cars,Small,41,44.78,1835.98,1835.98,True
+10194,2003-11-25,2003,11,Nov,France,Emea,Trucks And Buses,Small,21,93.34,1960.14,1960.14,True
+10194,2003-11-25,2003,11,Nov,France,Emea,Trucks And Buses,Medium,37,97.27,3598.99,3598.99,True
+10196,2003-11-26,2003,11,Nov,Usa,Unknown,Ships,Medium,50,94.4,4720.0,4720.0,True
+10196,2003-11-26,2003,11,Nov,Usa,Unknown,Trains,Small,46,62.09,2856.14,2856.14,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Medium,46,87.74,4036.04,4036.04,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Small,23,64.67,1487.41,1487.41,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Medium,35,93.35,3267.25,3267.25,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Medium,50,78.79,3939.5,3939.500000000001,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Small,24,90.52,2172.48,2172.48,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Small,42,50.23,2109.66,2109.66,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Ships,Small,27,92.16,2488.32,2488.32,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Planes,Small,29,41.71,1209.59,1209.59,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Vintage Cars,Small,22,86.38,1900.36,1900.36,True
+10197,2003-11-26,2003,11,Nov,Spain,Emea,Vintage Cars,Medium,47,83.2,3910.4,3910.4,True
+10198,2003-11-27,2003,11,Nov,Philippines,Japan,Vintage Cars,Small,27,71.67,1935.09,1935.09,True
+10198,2003-11-27,2003,11,Nov,Philippines,Japan,Planes,Medium,48,67.82,3255.36,3255.36,True
+10198,2003-11-27,2003,11,Nov,Philippines,Japan,Planes,Small,43,66.19,2846.17,2846.17,True
+10198,2003-11-27,2003,11,Nov,Philippines,Japan,Planes,Small,40,63.67,2546.8,2546.8,True
+10199,2003-12-01,2003,12,Dec,Usa,Unknown,Planes,Medium,48,83.12,3989.76,3989.76,True
+10201,2003-12-01,2003,12,Dec,Usa,Unknown,Motorcycles,Small,30,64.81,1944.3,1944.3,True
+10199,2003-12-01,2003,12,Dec,Usa,Unknown,Vintage Cars,Small,29,38.4,1113.6,1113.6,True
+10201,2003-12-01,2003,12,Dec,Usa,Unknown,Motorcycles,Small,22,98.57,2168.54,2168.54,True
+10199,2003-12-01,2003,12,Dec,Usa,Unknown,Planes,Medium,38,82.4,3131.2,3131.2,True
+10201,2003-12-01,2003,12,Dec,Usa,Unknown,Motorcycles,Small,25,73.88,1847.0,1847.0,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Classic Cars,Medium,45,76.26,3431.7,3431.7,True
+10203,2003-12-02,2003,12,Dec,Spain,Emea,Classic Cars,Small,21,37.0,777.0,777.0,True
+10203,2003-12-02,2003,12,Dec,Spain,Emea,Classic Cars,Small,33,86.04,2839.32,2839.32,True
+10203,2003-12-02,2003,12,Dec,Spain,Emea,Classic Cars,Medium,44,82.99,3651.56,3651.56,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Classic Cars,Small,20,62.47,1249.4,1249.4,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Vintage Cars,Small,23,71.44,1643.12,1643.12,True
+10203,2003-12-02,2003,12,Dec,Spain,Emea,Classic Cars,Medium,45,85.47,3846.15,3846.15,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Vintage Cars,Small,39,33.23,1295.97,1295.97,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Classic Cars,Small,45,49.81,2241.45,2241.45,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Vintage Cars,Small,29,85.59,2482.11,2482.11,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Classic Cars,Medium,48,91.02,4368.96,4368.96,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Classic Cars,Medium,47,96.32,4527.04,4527.04,True
+10203,2003-12-02,2003,12,Dec,Spain,Emea,Classic Cars,Small,34,64.9,2206.6,2206.6,True
+10204,2003-12-02,2003,12,Dec,Usa,Unknown,Classic Cars,Medium,40,79.62,3184.8,3184.8,True
+10205,2003-12-03,2003,12,Dec,Spain,Emea,Vintage Cars,Medium,48,63.61,3053.28,3053.28,True
+10205,2003-12-03,2003,12,Dec,Spain,Emea,Vintage Cars,Small,24,38.08,913.92,913.92,True
+10205,2003-12-03,2003,12,Dec,Spain,Emea,Vintage Cars,Small,32,37.17,1189.44,1189.44,True
+10206,2003-12-05,2003,12,Dec,Canada,Unknown,Trucks And Buses,Small,36,58.82,2117.52,2117.52,True
+10206,2003-12-05,2003,12,Dec,Canada,Unknown,Vintage Cars,Medium,33,97.39,3213.87,3213.87,True
+10206,2003-12-05,2003,12,Dec,Canada,Unknown,Vintage Cars,Small,21,53.33,1119.93,1119.93,True
+10206,2003-12-05,2003,12,Dec,Canada,Unknown,Vintage Cars,Medium,37,90.17,3336.29,3336.29,True
+10206,2003-12-05,2003,12,Dec,Canada,Unknown,Vintage Cars,Small,28,67.46,1888.88,1888.88,True
+10206,2003-12-05,2003,12,Dec,Canada,Unknown,Vintage Cars,Small,28,87.3,2444.4,2444.4,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Trucks And Buses,Medium,49,80.9,3964.1,3964.1,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Trucks And Buses,Medium,34,99.54,3384.36,3384.36,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Classic Cars,Small,42,29.7,1247.4,1247.4,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Trucks And Buses,Small,28,94.92,2657.76,2657.76,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Trains,Small,45,56.55,2544.75,2544.75,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Trucks And Buses,Small,37,69.89,2585.93,2585.93,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Classic Cars,Small,49,46.82,2294.18,2294.18,True
+10207,2003-12-09,2003,12,Dec,Usa,Unknown,Trucks And Buses,Small,27,60.06,1621.62,1621.62,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Ships,Medium,46,74.45,3424.7,3424.7,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Trains,Small,30,65.61,1968.3,1968.3,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Ships,Medium,40,80.55,3222.0,3222.0,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Ships,Small,42,63.88,2682.96,2682.96,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Ships,Small,33,85.41,2818.53,2818.53,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Vintage Cars,Medium,45,87.77,3949.65,3949.65,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Ships,Small,38,74.67,2837.46,2837.46,True
+10208,2004-01-02,2004,1,Jan,France,Emea,Vintage Cars,Small,20,89.4,1788.0,1788.0,True
+10209,2004-01-09,2004,1,Jan,Usa,Unknown,Vintage Cars,Small,22,89.73,1974.06,1974.06,True
+10209,2004-01-09,2004,1,Jan,Usa,Unknown,Planes,Medium,43,82.21,3535.03,3535.03,True
+10209,2004-01-09,2004,1,Jan,Usa,Unknown,Planes,Small,48,44.69,2145.12,2145.12,True
+10209,2004-01-09,2004,1,Jan,Usa,Unknown,Vintage Cars,Small,36,77.59,2793.24,2793.24,True
+10209,2004-01-09,2004,1,Jan,Usa,Unknown,Ships,Small,33,88.71,2927.43,2927.43,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,26,99.72,2592.72,2592.72,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,29,69.6,2018.4,2018.4,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,40,71.0,2840.0,2840.0,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Vintage Cars,Small,39,59.16,2307.24,2307.24,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Motorcycles,Small,40,49.67,1986.8,1986.8,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,21,78.55,1649.55,1649.55,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Motorcycles,Medium,46,79.91,3675.86,3675.86,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,42,70.33,2953.86,2953.86,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Medium,50,76.88,3844.0,3844.0,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,31,86.4,2678.4,2678.4,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Motorcycles,Small,30,61.7,1851.0,1851.0,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Vintage Cars,Small,43,41.02,1763.86,1763.86,True
+10210,2004-01-12,2004,1,Jan,Japan,Japan,Planes,Small,27,98.48,2658.96,2658.96,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Motorcycles,Small,25,90.16,2254.0,2254.0,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Motorcycles,Small,21,63.72,1338.12,1338.12,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Motorcycles,Small,46,54.09,2488.14,2488.14,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Motorcycles,Small,41,42.24,1731.84,1731.84,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Motorcycles,Medium,40,80.55,3222.0,3222.0,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Classic Cars,Small,28,92.57,2591.96,2591.96,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Classic Cars,Small,48,48.98,2351.04,2351.04,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Classic Cars,Small,35,78.0,2730.0,2730.0,True
+10211,2004-01-15,2004,1,Jan,France,Emea,Classic Cars,Small,22,92.16,2027.52,2027.52,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Small,34,43.42,1476.28,1476.28,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Medium,45,88.14,3966.3,3966.3,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Small,45,53.33,2399.85,2399.85,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Medium,46,87.81,4039.26,4039.26,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Small,20,66.99,1339.8,1339.8,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Medium,41,82.31,3374.71,3374.71,True
+10212,2004-01-16,2004,1,Jan,Spain,Emea,Classic Cars,Small,27,79.62,2149.74,2149.74,True
+10213,2004-01-22,2004,1,Jan,Uk,Emea,Classic Cars,Small,25,83.39,2084.75,2084.75,True
+10213,2004-01-22,2004,1,Jan,Uk,Emea,Vintage Cars,Medium,38,94.79,3602.02,3602.02,True
+10214,2004-01-26,2004,1,Jan,Spain,Emea,Vintage Cars,Small,49,47.94,2349.06,2349.06,True
+10214,2004-01-26,2004,1,Jan,Spain,Emea,Vintage Cars,Small,20,34.19,683.8,683.8,True
+10214,2004-01-26,2004,1,Jan,Spain,Emea,Vintage Cars,Small,44,34.88,1534.72,1534.72,True
+10214,2004-01-26,2004,1,Jan,Spain,Emea,Vintage Cars,Small,21,62.96,1322.16,1322.16,True
+10215,2004-01-29,2004,1,Jan,Usa,Unknown,Vintage Cars,Small,27,89.38,2413.26,2413.26,True
+10215,2004-01-29,2004,1,Jan,Usa,Unknown,Vintage Cars,Medium,39,90.57,3532.23,3532.23,True
+10215,2004-01-29,2004,1,Jan,Usa,Unknown,Vintage Cars,Small,46,45.28,2082.88,2082.88,True
+10215,2004-01-29,2004,1,Jan,Usa,Unknown,Vintage Cars,Small,31,58.71,1820.01,1820.01,True
+10215,2004-01-29,2004,1,Jan,Usa,Unknown,Vintage Cars,Small,33,43.13,1423.29,1423.29,True
+10217,2004-02-04,2004,2,Feb,Singapore,Apac,Trucks And Buses,Small,35,61.38,2148.3,2148.3,True
+10217,2004-02-04,2004,2,Feb,Singapore,Apac,Classic Cars,Small,31,88.0,2728.0,2728.0,True
+10217,2004-02-04,2004,2,Feb,Singapore,Apac,Trucks And Buses,Small,39,62.05,2419.95,2419.95,True
+10219,2004-02-10,2004,2,Feb,Usa,Unknown,Classic Cars,Small,21,40.31,846.51,846.51,True
+10219,2004-02-10,2004,2,Feb,Usa,Unknown,Trucks And Buses,Small,35,55.19,1931.65,1931.65,True
+10220,2004-02-12,2004,2,Feb,Ireland,Emea,Trains,Small,30,68.54,2056.2,2056.2,True
+10220,2004-02-12,2004,2,Feb,Ireland,Emea,Trains,Small,20,52.82,1056.4,1056.4,True
+10220,2004-02-12,2004,2,Feb,Ireland,Emea,Classic Cars,Small,26,56.07,1457.82,1457.82,True
+10221,2004-02-18,2004,2,Feb,Belgium,Emea,Trains,Small,23,80.67,1855.41,1855.41,True
+10221,2004-02-18,2004,2,Feb,Belgium,Emea,Ships,Small,23,97.0,2231.0,2231.0,True
+10221,2004-02-18,2004,2,Feb,Belgium,Emea,Vintage Cars,Medium,39,89.53,3491.67,3491.67,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Planes,Small,31,45.69,1416.39,1416.39,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Ships,Small,31,95.34,2955.54,2955.54,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Vintage Cars,Medium,46,80.51,3703.46,3703.46,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Planes,Small,32,81.53,2608.96,2608.96,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Vintage Cars,Medium,45,85.75,3858.75,3858.75,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Ships,Small,31,62.67,1942.77,1942.77,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Planes,Medium,37,87.75,3246.75,3246.75,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Ships,Small,36,63.34,2280.24,2280.24,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Ships,Small,36,80.95,2914.2,2914.2,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Vintage Cars,Medium,47,70.81,3328.07,3328.07,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Planes,Medium,43,74.03,3183.29,3183.29,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Vintage Cars,Medium,43,70.35,3025.05,3025.05,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Planes,Small,48,56.64,2718.72,2718.72,True
+10222,2004-02-19,2004,2,Feb,Usa,Unknown,Ships,Medium,49,94.62,4636.38,4636.38,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Planes,Small,26,67.2,1747.2,1747.2,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Vintage Cars,Small,41,46.26,1896.66,1896.66,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Motorcycles,Small,28,60.57,1695.96,1695.96,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Vintage Cars,Small,20,66.04,1320.8,1320.8,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Motorcycles,Small,38,69.31,2633.78,2633.78,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Planes,Small,23,74.62,1716.26,1716.26,True
+10223,2004-02-20,2004,2,Feb,Australia,Apac,Motorcycles,Small,32,91.29,2921.28,2921.28,True
+10224,2004-02-21,2004,2,Feb,France,Emea,Motorcycles,Small,38,58.44,2220.72,2220.72,True
+10224,2004-02-21,2004,2,Feb,France,Emea,Motorcycles,Small,37,80.34,2972.58,2972.58,True
+10224,2004-02-21,2004,2,Feb,France,Emea,Motorcycles,Medium,50,77.29,3864.5,3864.500000000001,True
+10224,2004-02-21,2004,2,Feb,France,Emea,Motorcycles,Small,43,39.43,1695.49,1695.49,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Medium,37,95.69,3540.53,3540.53,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Small,25,99.82,2495.5,2495.5,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Medium,47,64.68,3039.96,3039.96,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Small,42,36.63,1538.46,1538.46,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Small,37,77.41,2864.17,2864.17,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Small,24,50.21,1205.04,1205.04,True
+10225,2004-02-22,2004,2,Feb,Switzerland,Emea,Classic Cars,Medium,46,70.33,3235.18,3235.18,True
+10226,2004-02-26,2004,2,Feb,Usa,Unknown,Classic Cars,Small,36,43.27,1557.72,1557.72,True
+10226,2004-02-26,2004,2,Feb,Usa,Unknown,Classic Cars,Small,21,60.26,1265.46,1265.46,True
+10226,2004-02-26,2004,2,Feb,Usa,Unknown,Classic Cars,Medium,48,92.09,4420.32,4420.32,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Vintage Cars,Small,27,43.9,1185.3,1185.3,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Vintage Cars,Small,24,48.38,1161.12,1161.12,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Classic Cars,Medium,47,88.14,4142.58,4142.58,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Classic Cars,Small,37,57.73,2136.01,2136.01,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Vintage Cars,Small,31,48.52,1504.12,1504.12,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Vintage Cars,Small,28,50.85,1423.8,1423.8,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Vintage Cars,Small,42,29.21,1226.82,1226.82,True
+10227,2004-03-02,2004,3,Mar,France,Emea,Classic Cars,Medium,40,79.62,3184.8,3184.8,True
+10228,2004-03-10,2004,3,Mar,Usa,Unknown,Vintage Cars,Small,45,63.71,2866.95,2866.95,True
+10229,2004-03-11,2004,3,Mar,Usa,Unknown,Trucks And Buses,Small,30,73.04,2191.2,2191.2,True
+10229,2004-03-11,2004,3,Mar,Usa,Unknown,Vintage Cars,Small,39,40.25,1569.75,1569.75,True
+10229,2004-03-11,2004,3,Mar,Usa,Unknown,Classic Cars,Small,33,32.88,1085.04,1085.04,True
+10229,2004-03-11,2004,3,Mar,Usa,Unknown,Trucks And Buses,Small,28,59.55,1667.4,1667.4,True
+10229,2004-03-11,2004,3,Mar,Usa,Unknown,Trucks And Buses,Small,23,54.11,1244.53,1244.53,True
+10230,2004-03-15,2004,3,Mar,Germany,Emea,Classic Cars,Small,36,54.33,1955.88,1955.88,True
+10230,2004-03-15,2004,3,Mar,Germany,Emea,Trains,Small,43,52.14,2242.02,2242.02,True
+10230,2004-03-15,2004,3,Mar,Germany,Emea,Trains,Small,46,60.9,2801.4,2801.4,True
+10232,2004-03-20,2004,3,Mar,Uk,Emea,Vintage Cars,Small,23,89.53,2059.19,2059.19,True
+10232,2004-03-20,2004,3,Mar,Uk,Emea,Ships,Small,24,49.69,1192.56,1192.56,True
+10232,2004-03-20,2004,3,Mar,Uk,Emea,Ships,Small,35,82.43,2885.05,2885.05,True
+10232,2004-03-20,2004,3,Mar,Uk,Emea,Ships,Small,26,88.34,2296.84,2296.84,True
+10232,2004-03-20,2004,3,Mar,Uk,Emea,Trains,Medium,48,95.8,4598.4,4598.4,True
+10232,2004-03-20,2004,3,Mar,Uk,Emea,Ships,Medium,48,96.16,4615.68,4615.68,True
+10233,2004-03-29,2004,3,Mar,Usa,Unknown,Ships,Small,29,82.4,2389.6,2389.6,True
+10233,2004-03-29,2004,3,Mar,Usa,Unknown,Vintage Cars,Medium,40,94.71,3788.4,3788.4,True
+10233,2004-03-29,2004,3,Mar,Usa,Unknown,Ships,Small,36,70.67,2544.12,2544.12,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Small,34,72.55,2466.7,2466.7,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Vintage Cars,Small,34,77.73,2642.82,2642.82,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Small,32,92.0,2944.0,2944.0,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Small,24,76.03,1824.72,1824.72,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Small,33,60.05,1981.65,1981.65,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Small,23,96.29,2214.67,2214.67,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Medium,40,81.14,3245.6,3245.6,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Medium,38,88.75,3372.5,3372.5,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Vintage Cars,Small,41,35.35,1449.35,1449.35,True
+10235,2004-04-02,2004,4,Apr,Canada,Unknown,Planes,Small,25,96.11,2402.75,2402.75,True
+10236,2004-04-03,2004,4,Apr,Usa,Unknown,Motorcycles,Small,23,55.72,1281.56,1281.56,True
+10236,2004-04-03,2004,4,Apr,Usa,Unknown,Motorcycles,Medium,36,87.6,3153.6,3153.6,True
+10237,2004-04-05,2004,4,Apr,Usa,Unknown,Motorcycles,Small,20,68.34,1366.8,1366.8,True
+10237,2004-04-05,2004,4,Apr,Usa,Unknown,Motorcycles,Small,26,40.23,1045.98,1045.98,True
+10237,2004-04-05,2004,4,Apr,Usa,Unknown,Motorcycles,Small,26,52.22,1357.72,1357.72,True
+10237,2004-04-05,2004,4,Apr,Usa,Unknown,Motorcycles,Small,26,79.65,2070.9,2070.9,True
+10238,2004-04-09,2004,4,Apr,Denmark,Emea,Classic Cars,Small,41,73.17,2999.97,2999.97,True
+10238,2004-04-09,2004,4,Apr,Denmark,Emea,Classic Cars,Small,47,62.45,2935.15,2935.15,True
+10238,2004-04-09,2004,4,Apr,Denmark,Emea,Classic Cars,Small,20,74.21,1484.2,1484.2,True
+10238,2004-04-09,2004,4,Apr,Denmark,Emea,Classic Cars,Small,22,93.77,2062.94,2062.94,True
+10239,2004-04-12,2004,4,Apr,Finland,Emea,Classic Cars,Medium,46,73.92,3400.32,3400.32,True
+10239,2004-04-12,2004,4,Apr,Finland,Emea,Classic Cars,Small,20,44.56,891.2,891.2,True
+10239,2004-04-12,2004,4,Apr,Finland,Emea,Classic Cars,Small,21,93.28,1958.88,1958.88,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Vintage Cars,Medium,42,90.19,3787.98,3787.98,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Small,28,98.65,2762.2,2762.2,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Small,27,86.73,2341.71,2341.71,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Medium,47,94.5,4441.5,4441.5,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Small,26,81.33,2114.58,2114.58,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Small,30,66.99,2009.7,2009.7,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Vintage Cars,Small,33,72.65,2397.45,2397.45,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Small,21,40.25,845.25,845.25,True
+10241,2004-04-13,2004,4,Apr,France,Emea,Classic Cars,Small,22,76.43,1681.46,1681.46,True
+10242,2004-04-20,2004,4,Apr,Usa,Unknown,Vintage Cars,Small,46,36.93,1698.78,1698.78,True
+10243,2004-04-26,2004,4,Apr,Usa,Unknown,Vintage Cars,Small,33,29.54,974.82,974.82,True
+10244,2004-04-29,2004,4,Apr,Spain,Emea,Vintage Cars,Medium,36,84.33,3035.88,3035.88,True
+10244,2004-04-29,2004,4,Apr,Spain,Emea,Vintage Cars,Small,24,58.09,1394.16,1394.16,True
+10244,2004-04-29,2004,4,Apr,Spain,Emea,Vintage Cars,Medium,40,86.68,3467.2,3467.2,True
+10244,2004-04-29,2004,4,Apr,Spain,Emea,Vintage Cars,Small,39,45.25,1764.75,1764.75,True
+10244,2004-04-29,2004,4,Apr,Spain,Emea,Vintage Cars,Small,20,58.22,1164.4,1164.4,True
+10245,2004-05-04,2004,5,May,Usa,Unknown,Trucks And Buses,Medium,44,69.16,3043.04,3043.04,True
+10245,2004-05-04,2004,5,May,Usa,Unknown,Vintage Cars,Small,45,59.87,2694.15,2694.15,True
+10246,2004-05-05,2004,5,May,Spain,Emea,Trucks And Buses,Small,30,61.99,1859.7,1859.7,True
+10246,2004-05-05,2004,5,May,Spain,Emea,Classic Cars,Small,44,52.6,2314.4,2314.4,True
+10246,2004-05-05,2004,5,May,Spain,Emea,Trucks And Buses,Small,22,98.18,2159.96,2159.96,True
+10246,2004-05-05,2004,5,May,Spain,Emea,Trucks And Buses,Small,35,48.7,1704.5,1704.5,True
+10246,2004-05-05,2004,5,May,Spain,Emea,Classic Cars,Small,49,36.07,1767.43,1767.43,True
+10247,2004-05-05,2004,5,May,Finland,Emea,Trains,Medium,49,63.85,3128.65,3128.65,True
+10247,2004-05-05,2004,5,May,Finland,Emea,Trains,Small,40,49.71,1988.4,1988.4,True
+10249,2004-05-08,2004,5,May,Usa,Unknown,Planes,Small,20,67.82,1356.4,1356.4,True
+10249,2004-05-08,2004,5,May,Usa,Unknown,Vintage Cars,Small,25,69.7,1742.5,1742.5,True
+10249,2004-05-08,2004,5,May,Usa,Unknown,Planes,Small,32,57.61,1843.52,1843.52,True
+10249,2004-05-08,2004,5,May,Usa,Unknown,Ships,Medium,40,95.95,3838.0,3838.0,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Small,31,88.63,2747.53,2747.53,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Small,27,98.84,2668.68,2668.68,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Small,38,62.19,2363.22,2363.22,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Small,44,67.2,2956.8,2956.8,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Small,37,74.62,2760.94,2760.94,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Motorcycles,Small,32,87.6,2803.2,2803.2,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Medium,40,75.06,3002.4,3002.4,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Vintage Cars,Medium,50,61.22,3061.0,3061.0,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Vintage Cars,Small,36,51.93,1869.48,1869.48,True
+10250,2004-05-11,2004,5,May,Usa,Unknown,Planes,Small,31,91.34,2831.54,2831.54,True
+10251,2004-05-18,2004,5,May,Usa,Unknown,Motorcycles,Small,29,61.18,1774.22,1774.22,True
+10252,2004-05-26,2004,5,May,France,Emea,Motorcycles,Small,36,48.28,1738.08,1738.08,True
+10252,2004-05-26,2004,5,May,France,Emea,Classic Cars,Medium,38,87.31,3317.78,3317.78,True
+10252,2004-05-26,2004,5,May,France,Emea,Motorcycles,Small,31,52.84,1638.04,1638.04,True
+10252,2004-05-26,2004,5,May,France,Emea,Motorcycles,Medium,48,72.41,3475.68,3475.68,True
+10252,2004-05-26,2004,5,May,France,Emea,Motorcycles,Medium,47,65.8,3092.6,3092.6,True
+10252,2004-05-26,2004,5,May,France,Emea,Classic Cars,Small,20,76.39,1527.8,1527.8,True
+10255,2004-06-04,2004,6,Jun,France,Emea,Vintage Cars,Small,37,45.7,1690.9,1690.9,True
+10256,2004-06-08,2004,6,Jun,Denmark,Emea,Vintage Cars,Medium,34,95.55,3248.7,3248.7,True
+10256,2004-06-08,2004,6,Jun,Denmark,Emea,Vintage Cars,Small,29,51.75,1500.75,1500.75,True
+10257,2004-06-14,2004,6,Jun,Usa,Unknown,Vintage Cars,Small,49,53.72,2632.28,2632.28,True
+10257,2004-06-14,2004,6,Jun,Usa,Unknown,Vintage Cars,Small,26,89.29,2321.54,2321.54,True
+10257,2004-06-14,2004,6,Jun,Usa,Unknown,Vintage Cars,Medium,50,88.14,4407.0,4407.0,True
+10257,2004-06-14,2004,6,Jun,Usa,Unknown,Vintage Cars,Medium,46,78.89,3628.94,3628.94,True
+10257,2004-06-14,2004,6,Jun,Usa,Unknown,Vintage Cars,Medium,37,84.82,3138.34,3138.34,True
+10258,2004-06-15,2004,6,Jun,Japan,Japan,Classic Cars,Medium,45,80.92,3641.4,3641.4,True
+10258,2004-06-15,2004,6,Jun,Japan,Japan,Vintage Cars,Small,21,59.87,1257.27,1257.27,True
+10259,2004-06-15,2004,6,Jun,Singapore,Apac,Trucks And Buses,Medium,34,99.41,3379.94,3379.94,True
+10259,2004-06-15,2004,6,Jun,Singapore,Apac,Trucks And Buses,Small,30,49.22,1476.6,1476.6,True
+10259,2004-06-15,2004,6,Jun,Singapore,Apac,Trucks And Buses,Small,40,43.83,1753.2,1753.2,True
+10259,2004-06-15,2004,6,Jun,Singapore,Apac,Classic Cars,Small,31,33.24,1030.44,1030.44,True
+10259,2004-06-15,2004,6,Jun,Singapore,Apac,Trucks And Buses,Medium,45,86.68,3900.6,3900.6,True
+10258,2004-06-15,2004,6,Jun,Japan,Japan,Trucks And Buses,Small,20,61.41,1228.2,1228.2,True
+10259,2004-06-15,2004,6,Jun,Singapore,Apac,Classic Cars,Small,28,46.82,1310.96,1310.96,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Ships,Small,34,62.0,2108.0,2108.0,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Ships,Medium,44,68.67,3021.48,3021.48,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Vintage Cars,Small,22,91.17,2005.74,2005.74,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Vintage Cars,Small,20,89.53,1790.6,1790.6,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Ships,Small,29,50.78,1472.62,1472.62,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Ships,Medium,50,81.43,4071.5,4071.500000000001,True
+10261,2004-06-17,2004,6,Jun,Canada,Unknown,Ships,Small,25,88.15,2203.75,2203.75,True
+10263,2004-06-28,2004,6,Jun,Usa,Unknown,Motorcycles,Small,34,58.75,1997.5,1997.5,True
+10263,2004-06-28,2004,6,Jun,Usa,Unknown,Planes,Small,33,86.17,2843.61,2843.61,True
+10263,2004-06-28,2004,6,Jun,Usa,Unknown,Motorcycles,Small,37,62.46,2311.02,2311.02,True
+10263,2004-06-28,2004,6,Jun,Usa,Unknown,Motorcycles,Small,31,79.91,2477.21,2477.21,True
+10263,2004-06-28,2004,6,Jun,Usa,Unknown,Planes,Small,24,75.35,1808.4,1808.4,True
+10264,2004-06-30,2004,6,Jun,Usa,Unknown,Motorcycles,Small,37,65.1,2408.7,2408.7,True
+10264,2004-06-30,2004,6,Jun,Usa,Unknown,Motorcycles,Medium,34,97.97,3330.98,3330.98,True
+10264,2004-06-30,2004,6,Jun,Usa,Unknown,Classic Cars,Medium,47,83.27,3913.69,3913.69,True
+10264,2004-06-30,2004,6,Jun,Usa,Unknown,Motorcycles,Small,20,32.59,651.8,651.8000000000001,True
+10264,2004-06-30,2004,6,Jun,Usa,Unknown,Motorcycles,Small,48,54.71,2626.08,2626.08,True
+10264,2004-06-30,2004,6,Jun,Usa,Unknown,Motorcycles,Medium,47,89.5,4206.5,4206.5,True
+10265,2004-07-02,2004,7,Jul,Australia,Apac,Classic Cars,Medium,45,86.84,3907.8,3907.8,True
+10266,2004-07-06,2004,7,Jul,Italy,Emea,Classic Cars,Small,47,62.45,2935.15,2935.15,True
+10266,2004-07-06,2004,7,Jul,Italy,Emea,Classic Cars,Small,33,74.69,2464.77,2464.77,True
+10266,2004-07-06,2004,7,Jul,Italy,Emea,Classic Cars,Small,35,76.61,2681.35,2681.35,True
+10266,2004-07-06,2004,7,Jul,Italy,Emea,Classic Cars,Small,34,40.4,1373.6,1373.6,True
+10266,2004-07-06,2004,7,Jul,Italy,Emea,Classic Cars,Small,28,48.3,1352.4,1352.4,True
+10267,2004-07-07,2004,7,Jul,Usa,Unknown,Classic Cars,Small,36,75.55,2719.8,2719.8,True
+10267,2004-07-07,2004,7,Jul,Usa,Unknown,Classic Cars,Medium,38,87.24,3315.12,3315.12,True
+10267,2004-07-07,2004,7,Jul,Usa,Unknown,Classic Cars,Medium,40,80.1,3204.0,3204.0,True
+10267,2004-07-07,2004,7,Jul,Usa,Unknown,Classic Cars,Medium,44,96.74,4256.56,4256.56,True
+10269,2004-07-16,2004,7,Jul,Austria,Emea,Vintage Cars,Medium,48,97.39,4674.72,4674.72,True
+10269,2004-07-16,2004,7,Jul,Austria,Emea,Vintage Cars,Small,32,63.08,2018.56,2018.56,True
+10270,2004-07-19,2004,7,Jul,Australia,Apac,Vintage Cars,Small,31,96.24,2983.44,2983.44,True
+10270,2004-07-19,2004,7,Jul,Australia,Apac,Trucks And Buses,Small,32,85.72,2743.04,2743.04,True
+10270,2004-07-19,2004,7,Jul,Australia,Apac,Classic Cars,Medium,46,88.0,4048.0,4048.0,True
+10270,2004-07-19,2004,7,Jul,Australia,Apac,Trucks And Buses,Medium,43,96.84,4164.12,4164.12,True
+10270,2004-07-19,2004,7,Jul,Australia,Apac,Trucks And Buses,Small,21,63.35,1330.35,1330.35,True
+10270,2004-07-19,2004,7,Jul,Australia,Apac,Vintage Cars,Small,44,58.36,2567.84,2567.84,True
+10271,2004-07-20,2004,7,Jul,Usa,Unknown,Trucks And Buses,Medium,34,98.39,3345.26,3345.26,True
+10271,2004-07-20,2004,7,Jul,Usa,Unknown,Classic Cars,Small,38,41.72,1585.36,1585.36,True
+10271,2004-07-20,2004,7,Jul,Usa,Unknown,Classic Cars,Small,45,64.74,2913.3,2913.3,True
+10272,2004-07-20,2004,7,Jul,Usa,Unknown,Trains,Small,43,56.82,2443.26,2443.26,True
+10271,2004-07-20,2004,7,Jul,Usa,Unknown,Trucks And Buses,Medium,31,97.17,3012.27,3012.27,True
+10271,2004-07-20,2004,7,Jul,Usa,Unknown,Trucks And Buses,Small,25,69.28,1732.0,1732.0,True
+10271,2004-07-20,2004,7,Jul,Usa,Unknown,Trucks And Buses,Small,35,47.62,1666.7,1666.7,True
+10272,2004-07-20,2004,7,Jul,Usa,Unknown,Trains,Small,45,64.63,2908.35,2908.35,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Vintage Cars,Medium,50,85.75,4287.5,4287.5,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Vintage Cars,Small,33,71.09,2345.97,2345.97,True
+10274,2004-07-21,2004,7,Jul,Usa,Unknown,Planes,Small,40,65.08,2603.2,2603.2,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Ships,Medium,34,98.06,3334.04,3334.04,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Ships,Small,21,65.34,1372.14,1372.14,True
+10274,2004-07-21,2004,7,Jul,Usa,Unknown,Ships,Small,24,90.52,2172.48,2172.48,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Ships,Medium,40,86.15,3446.0,3446.0,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Ships,Small,37,45.86,1696.82,1696.82,True
+10274,2004-07-21,2004,7,Jul,Usa,Unknown,Planes,Small,32,58.6,1875.2,1875.2,True
+10274,2004-07-21,2004,7,Jul,Usa,Unknown,Vintage Cars,Small,24,72.33,1735.92,1735.92,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Vintage Cars,Medium,48,83.02,3984.96,3984.96,True
+10273,2004-07-21,2004,7,Jul,Belgium,Emea,Ships,Small,42,62.16,2610.72,2610.72,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Small,25,95.2,2380.0,2380.0,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Motorcycles,Small,23,81.91,1883.93,1883.93,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Medium,41,81.89,3357.49,3357.49,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Vintage Cars,Small,38,45.39,1724.82,1724.82,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Small,27,62.31,1682.37,1682.37,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Small,32,89.51,2864.32,2864.32,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Vintage Cars,Small,28,63.97,1791.16,1791.16,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Motorcycles,Small,30,79.98,2399.4,2399.4,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Medium,35,90.39,3163.65,3163.65,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Medium,43,73.6,3164.8,3164.8,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Motorcycles,Small,37,63.6,2353.2,2353.2,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Planes,Small,31,72.55,2249.05,2249.05,True
+10275,2004-07-23,2004,7,Jul,France,Emea,Motorcycles,Medium,45,92.83,4177.35,4177.35,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Motorcycles,Medium,46,75.49,3472.54,3472.54,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Motorcycles,Small,33,50.36,1661.88,1661.88,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Classic Cars,Medium,38,83.79,3184.02,3184.02,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Classic Cars,Small,20,61.23,1224.6,1224.6,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Classic Cars,Medium,48,75.18,3608.64,3608.64,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Motorcycles,Small,21,70.78,1486.38,1486.38,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Motorcycles,Small,27,36.61,988.47,988.47,True
+10276,2004-08-02,2004,8,Aug,Usa,Unknown,Classic Cars,Small,38,69.96,2658.48,2658.48,True
+10278,2004-08-06,2004,8,Aug,Usa,Unknown,Classic Cars,Small,29,90.86,2634.94,2634.94,True
+10278,2004-08-06,2004,8,Aug,Usa,Unknown,Classic Cars,Small,31,38.89,1205.59,1205.59,True
+10278,2004-08-06,2004,8,Aug,Usa,Unknown,Classic Cars,Small,35,45.28,1584.8,1584.8,True
+10279,2004-08-09,2004,8,Aug,Spain,Emea,Classic Cars,Small,32,74.96,2398.72,2398.72,True
+10279,2004-08-09,2004,8,Aug,Spain,Emea,Classic Cars,Small,26,60.58,1575.08,1575.08,True
+10279,2004-08-09,2004,8,Aug,Spain,Emea,Classic Cars,Medium,49,79.97,3918.53,3918.53,True
+10279,2004-08-09,2004,8,Aug,Spain,Emea,Classic Cars,Small,33,71.06,2344.98,2344.98,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,33,41.85,1381.05,1381.05,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,20,28.88,577.6,577.6,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,25,62.96,1574.0,1574.0,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,45,47.49,2137.05,2137.05,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,27,57.68,1557.36,1557.36,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,43,68.71,2954.53,2954.53,True
+10280,2004-08-17,2004,8,Aug,Italy,Emea,Vintage Cars,Small,21,78.89,1656.69,1656.69,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Classic Cars,Small,27,85.98,2321.46,2321.46,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Trucks And Buses,Small,36,77.57,2792.52,2792.52,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Vintage Cars,Small,44,59.87,2634.28,2634.28,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Trucks And Buses,Small,29,82.83,2402.07,2402.07,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Trucks And Buses,Small,31,55.19,1710.89,1710.89,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Trucks And Buses,Small,25,99.29,2482.25,2482.25,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Trucks And Buses,Small,29,57.73,1674.17,1674.17,True
+10281,2004-08-19,2004,8,Aug,Usa,Unknown,Classic Cars,Small,20,40.66,813.2,813.1999999999999,True
+10282,2004-08-20,2004,8,Aug,Usa,Unknown,Trains,Small,36,59.65,2147.4,2147.4,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Small,20,94.14,1882.8,1882.8,True
+10282,2004-08-20,2004,8,Aug,Usa,Unknown,Classic Cars,Small,29,46.82,1357.78,1357.78,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Medium,45,78.67,3540.15,3540.15,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Small,22,88.15,1939.3,1939.3,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Vintage Cars,Medium,34,92.94,3159.96,3159.96,True
+10282,2004-08-20,2004,8,Aug,Usa,Unknown,Trains,Small,37,66.78,2470.86,2470.86,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Vintage Cars,Small,33,72.96,2407.68,2407.68,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Planes,Small,43,57.61,2477.23,2477.23,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Small,21,98.06,2059.26,2059.26,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Medium,38,89.38,3396.44,3396.44,True
+10282,2004-08-20,2004,8,Aug,Usa,Unknown,Ships,Medium,43,86.61,3724.23,3724.23,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Medium,47,65.77,3091.19,3091.19,True
+10283,2004-08-20,2004,8,Aug,Canada,Unknown,Ships,Small,33,51.32,1693.56,1693.56,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,32,64.41,2061.12,2061.12,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,24,83.12,1994.88,1994.88,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,21,71.0,1491.0,1491.0,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,25,69.6,1740.0,1740.0,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Vintage Cars,Small,39,71.67,2795.13,2795.13,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Vintage Cars,Medium,50,81.86,4093.0,4093.0,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,30,73.99,2219.7,2219.7,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,31,71.81,2226.11,2226.11,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Vintage Cars,Small,33,51.93,1713.69,1713.69,True
+10284,2004-08-21,2004,8,Aug,Norway,Emea,Planes,Small,21,55.96,1175.16,1175.16,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Medium,37,98.89,3658.93,3658.93,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Small,26,100.0,2600.26,2600.0,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Medium,39,78.92,3077.88,3077.88,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Small,37,41.03,1518.11,1518.11,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Small,38,59.56,2263.28,2263.28,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Small,20,49.06,981.2,981.2,True
+10285,2004-08-27,2004,8,Aug,Usa,Unknown,Motorcycles,Small,39,70.08,2733.12,2733.12,True
+10286,2004-08-28,2004,8,Aug,France,Emea,Motorcycles,Small,38,57.2,2173.6,2173.6,True
+10287,2004-08-30,2004,8,Aug,Switzerland,Emea,Classic Cars,Medium,40,88.12,3524.8,3524.8,True
+10287,2004-08-30,2004,8,Aug,Switzerland,Emea,Classic Cars,Small,20,67.97,1359.4,1359.4,True
+10287,2004-08-30,2004,8,Aug,Switzerland,Emea,Classic Cars,Medium,43,70.76,3042.68,3042.68,True
+10287,2004-08-30,2004,8,Aug,Switzerland,Emea,Classic Cars,Medium,44,82.39,3625.16,3625.16,True
+10287,2004-08-30,2004,8,Aug,Switzerland,Emea,Classic Cars,Small,41,69.43,2846.63,2846.63,True
+10287,2004-08-30,2004,8,Aug,Switzerland,Emea,Classic Cars,Small,36,39.65,1427.4,1427.4,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Classic Cars,Small,50,52.32,2616.0,2616.0,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Classic Cars,Small,35,80.87,2830.45,2830.45,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Vintage Cars,Small,35,80.99,2834.65,2834.65,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Vintage Cars,Small,28,61.75,1729.0,1729.0,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Classic Cars,Small,23,73.41,1688.43,1688.43,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Classic Cars,Small,36,66.14,2381.04,2381.04,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Vintage Cars,Small,33,40.62,1340.46,1340.46,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Vintage Cars,Small,29,38.17,1106.93,1106.93,True
+10288,2004-09-01,2004,9,Sep,Singapore,Apac,Classic Cars,Small,34,68.49,2328.66,2328.66,True
+10289,2004-09-03,2004,9,Sep,Norway,Emea,Vintage Cars,Small,45,48.38,2177.1,2177.1,True
+10289,2004-09-03,2004,9,Sep,Norway,Emea,Vintage Cars,Small,24,56.07,1345.68,1345.68,True
+10290,2004-09-07,2004,9,Sep,Usa,Unknown,Vintage Cars,Small,26,96.23,2501.98,2501.98,True
+10291,2004-09-08,2004,9,Sep,Sweden,Emea,Vintage Cars,Small,29,51.82,1502.78,1502.78,True
+10291,2004-09-08,2004,9,Sep,Sweden,Emea,Trucks And Buses,Small,26,83.79,2178.54,2178.54,True
+10292,2004-09-08,2004,9,Sep,Usa,Unknown,Classic Cars,Small,40,53.75,2150.0,2150.0,True
+10292,2004-09-08,2004,9,Sep,Usa,Unknown,Trains,Small,35,55.07,1927.45,1927.45,True
+10292,2004-09-08,2004,9,Sep,Usa,Unknown,Classic Cars,Small,39,30.06,1172.34,1172.34,True
+10292,2004-09-08,2004,9,Sep,Usa,Unknown,Trucks And Buses,Small,50,46.53,2326.5,2326.5,True
+10291,2004-09-08,2004,9,Sep,Sweden,Emea,Trucks And Buses,Small,26,57.73,1500.98,1500.98,True
+10292,2004-09-08,2004,9,Sep,Usa,Unknown,Trains,Small,31,67.73,2099.63,2099.63,True
+10291,2004-09-08,2004,9,Sep,Sweden,Emea,Vintage Cars,Small,37,50.59,1871.83,1871.83,True
+10291,2004-09-08,2004,9,Sep,Sweden,Emea,Trucks And Buses,Small,32,71.75,2296.0,2296.0,True
+10293,2004-09-09,2004,9,Sep,Italy,Emea,Ships,Small,29,71.89,2084.81,2084.81,True
+10293,2004-09-09,2004,9,Sep,Italy,Emea,Ships,Small,32,60.06,1921.92,1921.92,True
+10295,2004-09-10,2004,9,Sep,Usa,Unknown,Ships,Small,26,75.34,1958.84,1958.84,True
+10295,2004-09-10,2004,9,Sep,Usa,Unknown,Ships,Small,44,58.55,2576.2,2576.2,True
+10295,2004-09-10,2004,9,Sep,Usa,Unknown,Vintage Cars,Medium,46,84.97,3908.62,3908.62,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Planes,Small,21,71.25,1496.25,1496.25,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Ships,Small,21,96.34,2023.14,2023.14,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Vintage Cars,Small,22,77.15,1697.3,1697.3,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Planes,Small,21,45.19,948.99,948.99,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Planes,Small,22,80.8,1777.6,1777.6,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Vintage Cars,Small,26,48.44,1259.44,1259.44,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Planes,Small,32,71.65,2292.8,2292.8,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Planes,Medium,47,86.62,4071.14,4071.14,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Vintage Cars,Small,31,53.92,1671.52,1671.52,True
+10296,2004-09-15,2004,9,Sep,Germany,Emea,Vintage Cars,Small,22,84.7,1863.4,1863.4,True
+10297,2004-09-16,2004,9,Sep,Ireland,Emea,Planes,Small,25,82.79,2069.75,2069.75,True
+10297,2004-09-16,2004,9,Sep,Ireland,Emea,Vintage Cars,Small,28,79.8,2234.4,2234.4,True
+10297,2004-09-16,2004,9,Sep,Ireland,Emea,Motorcycles,Small,32,65.51,2096.32,2096.32,True
+10297,2004-09-16,2004,9,Sep,Ireland,Emea,Planes,Small,23,72.45,1666.35,1666.35,True
+10298,2004-09-27,2004,9,Sep,France,Emea,Motorcycles,Medium,39,96.34,3757.26,3757.26,True
+10298,2004-09-27,2004,9,Sep,France,Emea,Motorcycles,Small,32,48.46,1550.72,1550.72,True
+10299,2004-09-30,2004,9,Sep,Finland,Emea,Classic Cars,Small,32,80.84,2586.88,2586.88,True
+10299,2004-09-30,2004,9,Sep,Finland,Emea,Motorcycles,Small,33,66.49,2194.17,2194.17,True
+10299,2004-09-30,2004,9,Sep,Finland,Emea,Motorcycles,Small,39,55.95,2182.05,2182.05,True
+10299,2004-09-30,2004,9,Sep,Finland,Emea,Motorcycles,Medium,44,80.55,3544.2,3544.2,True
+10299,2004-09-30,2004,9,Sep,Finland,Emea,Motorcycles,Small,24,42.24,1013.76,1013.76,True
+10303,2004-10-06,2004,10,Oct,Spain,Emea,Vintage Cars,Small,46,49.04,2255.84,2255.84,True
+10303,2004-10-06,2004,10,Oct,Spain,Emea,Vintage Cars,Small,24,40.21,965.04,965.04,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Medium,37,95.55,3535.35,3535.35,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Small,24,64.96,1559.04,1559.04,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Small,23,30.2,694.6,694.6,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Small,26,85.87,2232.62,2232.62,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Small,34,49.3,1676.2,1676.2,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Small,44,39.42,1734.48,1734.48,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Trucks And Buses,Medium,46,98.0,4508.0,4508.0,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Vintage Cars,Small,37,48.52,1795.24,1795.24,True
+10304,2004-10-11,2004,10,Oct,France,Emea,Trucks And Buses,Small,36,73.04,2629.44,2629.44,True
+10305,2004-10-13,2004,10,Oct,Usa,Unknown,Trucks And Buses,Small,22,99.29,2184.38,2184.38,True
+10305,2004-10-13,2004,10,Oct,Usa,Unknown,Classic Cars,Small,45,61.85,2783.25,2783.25,True
+10305,2004-10-13,2004,10,Oct,Usa,Unknown,Classic Cars,Small,48,31.47,1510.56,1510.56,True
+10305,2004-10-13,2004,10,Oct,Usa,Unknown,Trucks And Buses,Small,40,57.9,2316.0,2316.0,True
+10305,2004-10-13,2004,10,Oct,Usa,Unknown,Trucks And Buses,Small,41,53.48,2192.68,2192.68,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Trains,Medium,40,91.76,3670.4,3670.4,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Planes,Small,34,53.63,1823.42,1823.42,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Ships,Medium,38,91.81,3488.78,3488.78,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Ships,Medium,34,97.76,3323.84,3323.84,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Ships,Medium,43,75.17,3232.31,3232.31,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Ships,Small,32,90.15,2884.8,2884.8,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,22,71.67,1576.74,1576.74,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Ships,Small,50,54.0,2700.0,2700.0,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Vintage Cars,Small,31,84.08,2606.48,2606.48,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Trains,Small,34,60.34,2051.56,2051.56,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Vintage Cars,Medium,48,86.81,4166.88,4166.88,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Vintage Cars,Medium,39,90.4,3525.6,3525.6,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,22,91.41,2011.02,2011.02,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Planes,Small,25,75.36,1884.0,1884.0,True
+10307,2004-10-14,2004,10,Oct,Usa,Unknown,Ships,Small,31,83.44,2586.64,2586.64,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Trains,Small,46,50.33,2315.18,2315.18,True
+10306,2004-10-14,2004,10,Oct,Uk,Emea,Ships,Small,35,59.51,2082.85,2082.85,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Planes,Medium,43,76.43,3286.49,3286.49,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Vintage Cars,Medium,46,66.04,3037.84,3037.84,True
+10309,2004-10-15,2004,10,Oct,Norway,Emea,Motorcycles,Small,24,56.1,1346.4,1346.4,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Planes,Medium,35,88.75,3106.25,3106.25,True
+10309,2004-10-15,2004,10,Oct,Norway,Emea,Motorcycles,Small,28,88.68,2483.04,2483.04,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Planes,Small,27,82.79,2235.33,2235.33,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Planes,Medium,44,83.32,3666.08,3666.08,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Planes,Small,39,68.11,2656.29,2656.29,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Motorcycles,Small,47,63.22,2971.34,2971.34,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,47,43.64,2051.08,2051.08,True
+10309,2004-10-15,2004,10,Oct,Norway,Emea,Motorcycles,Medium,50,84.7,4235.0,4235.0,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Planes,Small,21,87.2,1831.2,1831.2,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Motorcycles,Small,34,52.09,1771.06,1771.06,True
+10308,2004-10-15,2004,10,Oct,Usa,Unknown,Motorcycles,Small,24,79.91,1917.84,1917.84,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Classic Cars,Small,25,66.99,1674.75,1674.75,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Classic Cars,Medium,49,81.4,3988.6,3988.6,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Classic Cars,Small,45,49.3,2218.5,2218.5,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Classic Cars,Medium,49,97.01,4753.49,4753.490000000001,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Classic Cars,Small,28,93.6,2620.8,2620.8,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Classic Cars,Small,38,56.94,2163.72,2163.72,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Classic Cars,Small,33,41.91,1383.03,1383.03,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Vintage Cars,Medium,41,81.91,3358.31,3358.31,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Motorcycles,Small,36,43.05,1549.8,1549.8,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Classic Cars,Small,27,80.41,2171.07,2171.07,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Classic Cars,Small,26,87.45,2273.7,2273.7,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Motorcycles,Small,42,67.14,2819.88,2819.88,True
+10310,2004-10-16,2004,10,Oct,Germany,Emea,Classic Cars,Small,20,91.63,1832.6,1832.6,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Classic Cars,Small,25,83.04,2076.0,2076.0,True
+10311,2004-10-16,2004,10,Oct,Spain,Emea,Classic Cars,Medium,46,92.09,4236.14,4236.14,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,39,29.54,1152.06,1152.06,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,39,56.85,2217.15,2217.15,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Medium,43,89.38,3843.34,3843.34,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,31,35.29,1093.99,1093.99,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,25,44.21,1105.25,1105.25,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,35,53.72,1880.2,1880.2,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,30,61.15,1834.5,1834.5,True
+10312,2004-10-21,2004,10,Oct,Usa,Unknown,Vintage Cars,Small,23,37.63,865.49,865.49,True
+10314,2004-10-22,2004,10,Oct,Denmark,Emea,Trains,Small,38,61.51,2337.38,2337.38,True
+10313,2004-10-22,2004,10,Oct,Canada,Unknown,Trucks And Buses,Small,27,87.64,2366.28,2366.28,True
+10314,2004-10-22,2004,10,Oct,Denmark,Emea,Trains,Small,35,66.49,2327.15,2327.15,True
+10314,2004-10-22,2004,10,Oct,Denmark,Emea,Classic Cars,Small,39,37.13,1448.07,1448.07,True
+10314,2004-10-22,2004,10,Oct,Denmark,Emea,Classic Cars,Small,44,53.18,2339.92,2339.92,True
+10314,2004-10-22,2004,10,Oct,Denmark,Emea,Ships,Small,23,76.22,1753.06,1753.06,True
+10313,2004-10-22,2004,10,Oct,Canada,Unknown,Trucks And Buses,Small,38,45.45,1727.1,1727.1,True
+10313,2004-10-22,2004,10,Oct,Canada,Unknown,Classic Cars,Small,30,99.13,2973.9,2973.9,True
+10313,2004-10-22,2004,10,Oct,Canada,Unknown,Trucks And Buses,Small,34,56.24,1912.16,1912.16,True
+10313,2004-10-22,2004,10,Oct,Canada,Unknown,Trucks And Buses,Small,34,52.87,1797.58,1797.58,True
+10315,2004-10-29,2004,10,Oct,France,Emea,Vintage Cars,Small,24,86.74,2081.76,2081.76,True
+10315,2004-10-29,2004,10,Oct,France,Emea,Ships,Medium,37,91.37,3380.69,3380.69,True
+10315,2004-10-29,2004,10,Oct,France,Emea,Ships,Small,40,55.69,2227.6,2227.6,True
+10315,2004-10-29,2004,10,Oct,France,Emea,Ships,Small,31,86.15,2670.65,2670.65,True
+10315,2004-10-29,2004,10,Oct,France,Emea,Ships,Small,41,62.0,2542.0,2542.0,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Vintage Cars,Small,25,92.25,2306.25,2306.25,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Planes,Small,30,77.79,2333.7,2333.7,True
+10348,2004-11-01,2004,11,Nov,Spain,Emea,Vintage Cars,Small,39,50.31,1962.09,1962.09,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Planes,Small,44,62.19,2736.36,2736.36,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Ships,Small,21,94.62,1987.02,1987.02,True
+10348,2004-11-01,2004,11,Nov,Spain,Emea,Classic Cars,Small,48,52.36,2513.28,2513.28,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Planes,Small,34,82.21,2795.14,2795.14,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Planes,Medium,48,75.2,3609.6,3609.6,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Vintage Cars,Medium,47,86.81,4080.07,4080.07,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Ships,Medium,48,74.45,3573.6,3573.6,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Vintage Cars,Small,24,59.16,1419.84,1419.84,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Planes,Small,34,43.7,1485.8,1485.8,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Ships,Medium,45,93.24,4195.8,4195.8,True
+10348,2004-11-01,2004,11,Nov,Spain,Emea,Classic Cars,Small,32,82.83,2650.56,2650.56,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Vintage Cars,Medium,47,76.93,3615.71,3615.710000000001,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Vintage Cars,Small,34,47.57,1617.38,1617.38,True
+10316,2004-11-01,2004,11,Nov,Uk,Emea,Planes,Small,34,63.71,2166.14,2166.14,True
+10318,2004-11-02,2004,11,Nov,Usa,Unknown,Motorcycles,Medium,46,94.74,4358.04,4358.04,True
+10318,2004-11-02,2004,11,Nov,Usa,Unknown,Motorcycles,Small,42,52.7,2213.4,2213.4,True
+10318,2004-11-02,2004,11,Nov,Usa,Unknown,Motorcycles,Small,26,86.83,2257.58,2257.58,True
+10317,2004-11-02,2004,11,Nov,Usa,Unknown,Planes,Small,35,83.32,2916.2,2916.2,True
+10319,2004-11-03,2004,11,Nov,Usa,Unknown,Motorcycles,Medium,45,77.29,3478.05,3478.05,True
+10320,2004-11-03,2004,11,Nov,Sweden,Emea,Classic Cars,Small,38,73.42,2789.96,2789.96,True
+10319,2004-11-03,2004,11,Nov,Usa,Unknown,Motorcycles,Small,29,38.22,1108.38,1108.38,True
+10319,2004-11-03,2004,11,Nov,Usa,Unknown,Motorcycles,Small,31,81.73,2533.63,2533.63,True
+10319,2004-11-03,2004,11,Nov,Usa,Unknown,Classic Cars,Medium,46,73.98,3403.08,3403.08,True
+10320,2004-11-03,2004,11,Nov,Sweden,Emea,Classic Cars,Small,26,61.23,1591.98,1591.98,True
+10319,2004-11-03,2004,11,Nov,Usa,Unknown,Motorcycles,Small,44,59.06,2598.64,2598.64,True
+10319,2004-11-03,2004,11,Nov,Usa,Unknown,Classic Cars,Medium,43,85.69,3684.67,3684.67,True
+10322,2004-11-04,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,41,29.87,1224.67,1224.67,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,21,89.95,1888.95,1888.95,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,30,72.7,2181.0,2181.0,True
+10322,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,46,61.99,2851.54,2851.54,True
+10322,2004-11-04,2004,11,Nov,Usa,Unknown,Vintage Cars,Medium,43,86.3,3710.9,3710.9,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,37,78.54,2905.98,2905.98,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,30,70.55,2116.5,2116.5,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,48,42.26,2028.48,2028.48,True
+10322,2004-11-04,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,41,57.68,2364.88,2364.88,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Medium,39,84.75,3305.25,3305.25,True
+10322,2004-11-04,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,48,47.04,2257.92,2257.92,True
+10322,2004-11-04,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,35,61.21,2142.35,2142.35,True
+10321,2004-11-04,2004,11,Nov,Usa,Unknown,Classic Cars,Small,37,33.23,1229.51,1229.51,True
+10325,2004-11-05,2004,11,Nov,Norway,Emea,Classic Cars,Small,42,64.0,2688.0,2688.0,True
+10323,2004-11-05,2004,11,Nov,Germany,Emea,Vintage Cars,Medium,33,91.27,3011.91,3011.91,True
+10324,2004-11-05,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,20,98.18,1963.6,1963.6,True
+10324,2004-11-05,2004,11,Nov,Usa,Unknown,Classic Cars,Small,25,69.16,1729.0,1729.0,True
+10324,2004-11-05,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,26,58.38,1517.88,1517.88,True
+10325,2004-11-05,2004,11,Nov,Norway,Emea,Vintage Cars,Small,24,69.12,1658.88,1658.88,True
+10324,2004-11-05,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,33,37.48,1236.84,1236.84,True
+10324,2004-11-05,2004,11,Nov,Usa,Unknown,Classic Cars,Small,27,54.33,1466.91,1466.91,True
+10325,2004-11-05,2004,11,Nov,Norway,Emea,Classic Cars,Medium,47,64.93,3051.71,3051.71,True
+10326,2004-11-09,2004,11,Nov,Sweden,Emea,Vintage Cars,Small,20,92.25,1845.0,1845.0,True
+10326,2004-11-09,2004,11,Nov,Sweden,Emea,Ships,Small,39,60.0,2340.0,2340.0,True
+10326,2004-11-09,2004,11,Nov,Sweden,Emea,Vintage Cars,Medium,50,86.01,4300.5,4300.5,True
+10326,2004-11-09,2004,11,Nov,Sweden,Emea,Vintage Cars,Medium,41,85.85,3519.85,3519.85,True
+10327,2004-11-10,2004,11,Nov,Denmark,Emea,Ships,Medium,37,86.61,3204.57,3204.57,True
+10327,2004-11-10,2004,11,Nov,Denmark,Emea,Ships,Small,25,45.86,1146.5,1146.5,True
+10327,2004-11-10,2004,11,Nov,Denmark,Emea,Ships,Medium,37,86.74,3209.38,3209.38,True
+10327,2004-11-10,2004,11,Nov,Denmark,Emea,Ships,Medium,43,80.0,3440.0,3440.0,True
+10327,2004-11-10,2004,11,Nov,Denmark,Emea,Ships,Small,21,96.31,2022.51,2022.51,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Vintage Cars,Small,24,81.17,1948.08,1948.08,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Vintage Cars,Small,34,51.93,1765.62,1765.62,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Vintage Cars,Small,20,72.98,1459.6,1459.6,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Planes,Medium,47,87.54,4114.38,4114.38,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Planes,Medium,39,85.87,3348.93,3348.93,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Planes,Small,48,58.92,2828.16,2828.16,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Planes,Small,33,64.0,2112.0,2112.0,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Planes,Small,43,60.86,2616.98,2616.98,True
+10328,2004-11-12,2004,11,Nov,Italy,Emea,Planes,Small,35,76.43,2675.05,2675.05,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Classic Cars,Small,39,64.74,2524.86,2524.86,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Classic Cars,Small,41,71.47,2930.27,2930.27,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Motorcycles,Medium,37,94.43,3493.91,3493.91,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Classic Cars,Small,38,59.1,2245.8,2245.8,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Classic Cars,Medium,46,83.63,3846.98,3846.98,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Planes,Medium,44,86.13,3789.72,3789.72,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Motorcycles,Small,45,63.91,2875.95,2875.95,True
+10329,2004-11-15,2004,11,Nov,Usa,Unknown,Motorcycles,Small,30,87.78,2633.4,2633.4,True
+10330,2004-11-16,2004,11,Nov,Philippines,Japan,Motorcycles,Small,29,69.63,2019.27,2019.27,True
+10330,2004-11-16,2004,11,Nov,Philippines,Japan,Motorcycles,Medium,42,81.03,3403.26,3403.26,True
+10331,2004-11-17,2004,11,Nov,Usa,Unknown,Classic Cars,Small,27,42.24,1140.48,1140.48,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Classic Cars,Small,45,34.19,1538.55,1538.55,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Classic Cars,Small,31,37.18,1152.58,1152.58,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Medium,38,84.25,3201.5,3201.5,True
+10331,2004-11-17,2004,11,Nov,Usa,Unknown,Vintage Cars,Medium,44,74.04,3257.76,3257.76,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Medium,45,81.91,3685.95,3685.95,True
+10331,2004-11-17,2004,11,Nov,Usa,Unknown,Classic Cars,Small,26,67.91,1765.66,1765.66,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Classic Cars,Small,44,42.26,1859.44,1859.44,True
+10331,2004-11-17,2004,11,Nov,Usa,Unknown,Classic Cars,Small,26,64.9,1687.4,1687.4,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Small,24,52.67,1264.08,1264.08,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Small,35,64.69,2264.15,2264.15,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Medium,41,77.24,3166.84,3166.84,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Small,26,85.52,2223.52,2223.52,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Classic Cars,Small,20,87.96,1759.2,1759.2,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Classic Cars,Medium,39,86.72,3382.08,3382.08,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Small,40,39.8,1592.0,1592.0,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Small,27,89.89,2427.03,2427.03,True
+10331,2004-11-17,2004,11,Nov,Usa,Unknown,Classic Cars,Small,30,32.47,974.1,974.1,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Classic Cars,Small,23,56.84,1307.32,1307.32,True
+10332,2004-11-17,2004,11,Nov,Uk,Emea,Vintage Cars,Medium,46,95.13,4375.98,4375.98,True
+10333,2004-11-18,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,31,90.17,2795.27,2795.27,True
+10333,2004-11-18,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,24,79.86,1916.64,1916.64,True
+10333,2004-11-18,2004,11,Nov,Usa,Unknown,Trucks And Buses,Medium,33,99.21,3273.93,3273.93,True
+10333,2004-11-18,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,29,40.25,1167.25,1167.25,True
+10333,2004-11-18,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,33,73.69,2431.77,2431.77,True
+10335,2004-11-19,2004,11,Nov,Usa,Unknown,Classic Cars,Small,33,37.13,1225.29,1225.29,True
+10335,2004-11-19,2004,11,Nov,Usa,Unknown,Trucks And Buses,Small,40,60.6,2424.0,2424.0,True
+10336,2004-11-20,2004,11,Nov,France,Emea,Classic Cars,Small,33,57.22,1888.26,1888.26,True
+10336,2004-11-20,2004,11,Nov,France,Emea,Classic Cars,Medium,49,63.38,3105.62,3105.62,True
+10336,2004-11-20,2004,11,Nov,France,Emea,Trains,Small,31,84.71,2626.01,2626.01,True
+10337,2004-11-21,2004,11,Nov,Usa,Unknown,Ships,Small,36,71.89,2588.04,2588.04,True
+10337,2004-11-21,2004,11,Nov,Usa,Unknown,Ships,Small,31,89.38,2770.78,2770.78,True
+10337,2004-11-21,2004,11,Nov,Usa,Unknown,Classic Cars,Small,25,48.05,1201.25,1201.25,True
+10337,2004-11-21,2004,11,Nov,Usa,Unknown,Ships,Medium,42,97.16,4080.72,4080.72,True
+10337,2004-11-21,2004,11,Nov,Usa,Unknown,Ships,Small,36,70.3,2530.8,2530.8,True
+10337,2004-11-21,2004,11,Nov,Usa,Unknown,Ships,Small,29,71.97,2087.13,2087.13,True
+10338,2004-11-22,2004,11,Nov,Belgium,Emea,Ships,Small,28,82.58,2312.24,2312.24,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Vintage Cars,Small,29,99.69,2891.01,2891.01,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Planes,Medium,45,96.92,4361.4,4361.4,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Ships,Medium,55,71.25,3918.75,3918.75,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Planes,Small,50,57.86,2893.0,2893.0,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Motorcycles,Small,40,68.92,2756.8,2756.8,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Motorcycles,Small,27,84.39,2278.53,2278.53,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Planes,Small,21,50.65,1063.65,1063.65,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Motorcycles,Small,30,62.16,1864.8,1864.8,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Ships,Medium,50,74.35,3717.5,3717.5,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Planes,Small,27,76.31,2060.37,2060.37,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Motorcycles,Small,39,76.67,2990.13,2990.13,True
+10339,2004-11-23,2004,11,Nov,Japan,Japan,Vintage Cars,Small,42,59.36,2493.12,2493.12,True
+10343,2004-11-24,2004,11,Nov,France,Emea,Classic Cars,Small,25,52.32,1308.0,1308.0,True
+10340,2004-11-24,2004,11,Nov,Spain,Emea,Vintage Cars,Small,39,59.16,2307.24,2307.24,True
+10343,2004-11-24,2004,11,Nov,France,Emea,Classic Cars,Small,27,36.21,977.67,977.67,True
+10342,2004-11-24,2004,11,Nov,Australia,Apac,Classic Cars,Small,25,66.74,1668.5,1668.5,True
+10342,2004-11-24,2004,11,Nov,Australia,Apac,Classic Cars,Small,48,62.45,2997.6,2997.6,True
+10340,2004-11-24,2004,11,Nov,Spain,Emea,Vintage Cars,Small,40,50.62,2024.8,2024.8,True
+10341,2004-11-24,2004,11,Nov,Austria,Emea,Classic Cars,Medium,55,75.2,4136.0,4136.0,True
+10341,2004-11-24,2004,11,Nov,Austria,Emea,Classic Cars,Medium,36,93.56,3368.16,3368.16,True
+10342,2004-11-24,2004,11,Nov,Australia,Apac,Motorcycles,Small,26,55.95,1454.7,1454.7,True
+10340,2004-11-24,2004,11,Nov,Spain,Emea,Planes,Medium,55,87.75,4826.25,4826.25,True
+10342,2004-11-24,2004,11,Nov,Australia,Apac,Classic Cars,Medium,55,65.45,3599.75,3599.75,True
+10340,2004-11-24,2004,11,Nov,Spain,Emea,Planes,Medium,40,84.77,3390.8,3390.8,True
+10340,2004-11-24,2004,11,Nov,Spain,Emea,Motorcycles,Medium,55,79.98,4398.9,4398.900000000001,True
+10341,2004-11-24,2004,11,Nov,Austria,Emea,Classic Cars,Medium,45,79.65,3584.25,3584.25,True
+10343,2004-11-24,2004,11,Nov,France,Emea,Classic Cars,Medium,44,84.88,3734.72,3734.72,True
+10341,2004-11-24,2004,11,Nov,Austria,Emea,Classic Cars,Medium,44,95.93,4220.92,4220.92,True
+10340,2004-11-24,2004,11,Nov,Spain,Emea,Planes,Small,30,88.6,2658.0,2658.0,True
+10342,2004-11-24,2004,11,Nov,Australia,Apac,Classic Cars,Small,39,40.4,1575.6,1575.6,True
+10341,2004-11-24,2004,11,Nov,Austria,Emea,Motorcycles,Small,31,71.02,2201.62,2201.62,True
+10344,2004-11-25,2004,11,Nov,France,Emea,Classic Cars,Small,26,63.43,1649.18,1649.18,True
+10344,2004-11-25,2004,11,Nov,France,Emea,Vintage Cars,Small,20,35.18,703.6,703.6,True
+10345,2004-11-25,2004,11,Nov,France,Emea,Vintage Cars,Small,43,53.76,2311.68,2311.68,True
+10344,2004-11-25,2004,11,Nov,France,Emea,Classic Cars,Small,29,59.53,1726.37,1726.37,True
+10344,2004-11-25,2004,11,Nov,France,Emea,Vintage Cars,Small,40,56.91,2276.4,2276.4,True
+10346,2004-11-29,2004,11,Nov,Usa,Unknown,Classic Cars,Small,24,87.24,2093.76,2093.76,True
+10346,2004-11-29,2004,11,Nov,Usa,Unknown,Classic Cars,Small,26,95.88,2492.88,2492.88,True
+10346,2004-11-29,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,22,97.44,2143.68,2143.68,True
+10347,2004-11-29,2004,11,Nov,Australia,Apac,Vintage Cars,Small,34,64.96,2208.64,2208.64,True
+10347,2004-11-29,2004,11,Nov,Australia,Apac,Trucks And Buses,Small,42,49.6,2083.2,2083.2,True
+10347,2004-11-29,2004,11,Nov,Australia,Apac,Vintage Cars,Small,21,58.95,1237.95,1237.95,True
+10346,2004-11-29,2004,11,Nov,Usa,Unknown,Vintage Cars,Small,42,36.11,1516.62,1516.62,True
+10349,2004-12-01,2004,12,Dec,Usa,Unknown,Classic Cars,Small,48,47.4,2275.2,2275.2,True
+10349,2004-12-01,2004,12,Dec,Usa,Unknown,Classic Cars,Small,36,37.13,1336.68,1336.68,True
+10349,2004-12-01,2004,12,Dec,Usa,Unknown,Trucks And Buses,Small,33,46.53,1535.49,1535.49,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Ships,Medium,46,76.67,3526.82,3526.82,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Trains,Medium,41,93.04,3814.64,3814.64,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Ships,Small,34,50.33,1711.22,1711.22,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Ships,Small,29,75.35,2185.15,2185.15,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Trucks And Buses,Small,31,71.4,2213.4,2213.4,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Ships,Small,43,64.97,2793.71,2793.71,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Classic Cars,Small,26,75.47,1962.22,1962.22,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Ships,Small,31,77.34,2397.54,2397.54,True
+10350,2004-12-02,2004,12,Dec,Spain,Emea,Vintage Cars,Small,25,60.34,1508.5,1508.5,True
+10351,2004-12-03,2004,12,Dec,Uk,Emea,Planes,Small,25,74.68,1867.0,1867.0,True
+10351,2004-12-03,2004,12,Dec,Uk,Emea,Planes,Medium,39,99.52,3881.28,3881.28,True
+10352,2004-12-03,2004,12,Dec,Usa,Unknown,Planes,Small,49,52.64,2579.36,2579.36,True
+10352,2004-12-03,2004,12,Dec,Usa,Unknown,Planes,Small,22,75.51,1661.22,1661.22,True
+10351,2004-12-03,2004,12,Dec,Uk,Emea,Planes,Small,34,59.37,2018.58,2018.58,True
+10351,2004-12-03,2004,12,Dec,Uk,Emea,Vintage Cars,Small,38,68.38,2598.44,2598.44,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Vintage Cars,Medium,40,82.21,3288.4,3288.4,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Planes,Medium,43,81.95,3523.85,3523.85,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Motorcycles,Medium,46,81.17,3733.82,3733.82,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Planes,Medium,35,89.9,3146.5,3146.5,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Planes,Small,28,71.73,2008.44,2008.44,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Planes,Medium,48,68.8,3302.4,3302.4,True
+10353,2004-12-04,2004,12,Dec,Usa,Unknown,Vintage Cars,Small,40,44.51,1780.4,1780.4,True
+10355,2004-12-07,2004,12,Dec,Spain,Emea,Motorcycles,Small,31,53.47,1657.57,1657.57,True
+10355,2004-12-07,2004,12,Dec,Spain,Emea,Classic Cars,Small,44,62.45,2747.8,2747.8,True
+10355,2004-12-07,2004,12,Dec,Spain,Emea,Motorcycles,Small,41,70.65,2896.65,2896.65,True
+10355,2004-12-07,2004,12,Dec,Spain,Emea,Classic Cars,Small,28,95.39,2670.92,2670.92,True
+10355,2004-12-07,2004,12,Dec,Spain,Emea,Motorcycles,Small,38,39.83,1513.54,1513.54,True
+10355,2004-12-07,2004,12,Dec,Spain,Emea,Classic Cars,Small,36,38.52,1386.72,1386.72,True
+10356,2004-12-09,2004,12,Dec,France,Emea,Classic Cars,Small,27,64.69,1746.63,1746.63,True
+10356,2004-12-09,2004,12,Dec,France,Emea,Vintage Cars,Small,50,50.18,2509.0,2509.0,True
+10356,2004-12-09,2004,12,Dec,France,Emea,Classic Cars,Medium,43,97.6,4196.8,4196.8,True
+10356,2004-12-09,2004,12,Dec,France,Emea,Vintage Cars,Small,26,31.86,828.36,828.36,True
+10356,2004-12-09,2004,12,Dec,France,Emea,Vintage Cars,Small,22,72.41,1593.02,1593.02,True
+10358,2004-12-10,2004,12,Dec,Spain,Emea,Classic Cars,Small,32,93.49,2991.68,2991.68,True
+10357,2004-12-10,2004,12,Dec,Usa,Unknown,Trucks And Buses,Small,41,61.99,2541.59,2541.59,True
+10358,2004-12-10,2004,12,Dec,Spain,Emea,Trucks And Buses,Small,42,64.16,2694.72,2694.72,True
+10358,2004-12-10,2004,12,Dec,Spain,Emea,Classic Cars,Small,44,60.76,2673.44,2673.44,True
+10357,2004-12-10,2004,12,Dec,Usa,Unknown,Vintage Cars,Medium,41,87.13,3572.33,3572.33,True
+10358,2004-12-10,2004,12,Dec,Spain,Emea,Classic Cars,Small,49,55.34,2711.66,2711.66,True
+10357,2004-12-10,2004,12,Dec,Usa,Unknown,Trucks And Buses,Medium,39,98.0,3822.0,3822.0,True
+10358,2004-12-10,2004,12,Dec,Spain,Emea,Classic Cars,Small,36,82.94,2985.84,2985.84,True
+10357,2004-12-10,2004,12,Dec,Usa,Unknown,Vintage Cars,Medium,49,70.58,3458.42,3458.42,True
+10358,2004-12-10,2004,12,Dec,Spain,Emea,Trucks And Buses,Small,20,36.42,728.4,728.4000000000001,True
+10359,2004-12-15,2004,12,Dec,France,Emea,Classic Cars,Small,48,54.68,2624.64,2624.64,True
+10359,2004-12-15,2004,12,Dec,France,Emea,Classic Cars,Medium,49,62.09,3042.41,3042.41,True
+10359,2004-12-15,2004,12,Dec,France,Emea,Trains,Small,25,64.93,1623.25,1623.25,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Planes,Small,23,95.2,2189.6,2189.6,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Planes,Small,25,62.46,1561.5,1561.5,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Motorcycles,Small,20,72.55,1451.0,1451.0,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Motorcycles,Small,26,51.15,1329.9,1329.9,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Planes,Medium,44,72.42,3186.48,3186.48,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Ships,Small,24,45.39,1089.36,1089.36,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Vintage Cars,Medium,49,72.33,3544.17,3544.17,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Planes,Small,20,60.54,1210.8,1210.8,True
+10361,2004-12-17,2004,12,Dec,Australia,Apac,Vintage Cars,Small,33,82.59,2725.47,2725.47,True
+10362,2005-01-05,2005,1,Jan,Usa,Unknown,Motorcycles,Medium,50,96.92,4846.0,4846.0,True
+10362,2005-01-05,2005,1,Jan,Usa,Unknown,Motorcycles,Small,23,49.67,1142.41,1142.41,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Medium,46,88.45,4068.7,4068.7,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Small,46,60.3,2773.8,2773.8,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Motorcycles,Small,43,61.23,2632.89,2632.89,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Small,28,58.18,1629.04,1629.04,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Small,31,94.58,2931.98,2931.98,True
+10364,2005-01-06,2005,1,Jan,France,Emea,Motorcycles,Small,48,48.28,2317.44,2317.44,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Motorcycles,Small,32,89.12,2851.84,2851.84,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Small,34,81.62,2775.08,2775.08,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Medium,34,96.73,3288.82,3288.82,True
+10363,2005-01-06,2005,1,Jan,Finland,Emea,Classic Cars,Small,33,85.39,2817.87,2817.87,True
+10365,2005-01-07,2005,1,Jan,Usa,Unknown,Classic Cars,Small,30,87.06,2611.8,2611.8,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Classic Cars,Small,21,60.37,1267.77,1267.77,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Vintage Cars,Small,28,30.59,856.52,856.52,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Classic Cars,Medium,44,85.25,3751.0,3751.0,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Classic Cars,Small,38,38.5,1463.0,1463.0,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Vintage Cars,Small,43,62.72,2696.96,2696.96,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Vintage Cars,Small,23,36.29,834.67,834.67,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Vintage Cars,Medium,32,94.79,3033.28,3033.28,True
+10367,2005-01-12,2005,1,Jan,Usa,Unknown,Classic Cars,Small,49,56.3,2758.7,2758.7,True
+10368,2005-01-19,2005,1,Jan,Usa,Unknown,Classic Cars,Small,20,99.58,1991.6,1991.6,True
+10368,2005-01-19,2005,1,Jan,Usa,Unknown,Classic Cars,Medium,46,79.62,3662.52,3662.52,True
+10368,2005-01-19,2005,1,Jan,Usa,Unknown,Vintage Cars,Small,46,37.34,1717.64,1717.64,True
+10370,2005-01-20,2005,1,Jan,Australia,Apac,Classic Cars,Small,27,56.85,1534.95,1534.95,True
+10369,2005-01-20,2005,1,Jan,Usa,Unknown,Vintage Cars,Medium,40,86.92,3476.8,3476.8,True
+10369,2005-01-20,2005,1,Jan,Usa,Unknown,Vintage Cars,Small,28,44.21,1237.88,1237.88,True
+10369,2005-01-20,2005,1,Jan,Usa,Unknown,Vintage Cars,Medium,45,73.08,3288.6,3288.6,True
+10369,2005-01-20,2005,1,Jan,Usa,Unknown,Vintage Cars,Small,21,94.22,1978.62,1978.62,True
+10370,2005-01-20,2005,1,Jan,Australia,Apac,Trucks And Buses,Small,29,57.53,1668.37,1668.37,True
+10369,2005-01-20,2005,1,Jan,Usa,Unknown,Vintage Cars,Medium,32,98.63,3156.16,3156.16,True
+10370,2005-01-20,2005,1,Jan,Australia,Apac,Trucks And Buses,Small,22,96.86,2130.92,2130.92,True
+10370,2005-01-20,2005,1,Jan,Australia,Apac,Classic Cars,Small,35,65.63,2297.05,2297.05,True
+10371,2005-01-23,2005,1,Jan,Usa,Unknown,Trucks And Buses,Small,49,35.71,1749.79,1749.79,True
+10371,2005-01-23,2005,1,Jan,Usa,Unknown,Classic Cars,Small,25,97.27,2431.75,2431.75,True
+10371,2005-01-23,2005,1,Jan,Usa,Unknown,Classic Cars,Small,28,50.32,1408.96,1408.96,True
+10371,2005-01-23,2005,1,Jan,Usa,Unknown,Trucks And Buses,Small,48,56.55,2714.4,2714.4,True
+10371,2005-01-23,2005,1,Jan,Usa,Unknown,Trains,Small,30,99.55,2986.5,2986.5,True
+10371,2005-01-23,2005,1,Jan,Usa,Unknown,Trucks And Buses,Small,20,66.47,1329.4,1329.4,True
+10372,2005-01-26,2005,1,Jan,Japan,Japan,Trains,Small,25,84.71,2117.75,2117.75,True
+10372,2005-01-26,2005,1,Jan,Japan,Japan,Vintage Cars,Medium,41,86.89,3562.49,3562.49,True
+10372,2005-01-26,2005,1,Jan,Japan,Japan,Trains,Small,24,58.58,1405.92,1405.92,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Planes,Small,39,73.0,2847.0,2847.0,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Planes,Small,38,70.44,2676.72,2676.72,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Planes,Small,28,57.55,1611.4,1611.4,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Ships,Small,32,84.41,2701.12,2701.12,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Ships,Small,41,70.33,2883.53,2883.53,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Planes,Small,45,55.62,2502.9,2502.9,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Ships,Medium,34,96.34,3275.56,3275.56,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Vintage Cars,Medium,46,66.0,3036.0,3036.0,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Vintage Cars,Small,33,57.32,1891.56,1891.56,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Vintage Cars,Medium,50,60.49,3024.5,3024.5,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Ships,Small,22,86.74,1908.28,1908.28,True
+10373,2005-01-31,2005,1,Jan,Finland,Emea,Planes,Small,25,64.97,1624.25,1624.25,True
+10374,2005-02-02,2005,2,Feb,Australia,Apac,Planes,Small,42,69.27,2909.34,2909.34,True
+10374,2005-02-02,2005,2,Feb,Australia,Apac,Motorcycles,Small,22,53.3,1172.6,1172.6,True
+10374,2005-02-02,2005,2,Feb,Australia,Apac,Planes,Medium,46,94.1,4328.6,4328.599999999999,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Motorcycles,Small,21,34.91,733.11,733.1099999999999,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Motorcycles,Medium,49,78.92,3867.08,3867.08,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Vintage Cars,Medium,44,82.26,3619.44,3619.44,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Vintage Cars,Medium,49,65.8,3224.2,3224.2,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Planes,Small,25,66.73,1668.25,1668.25,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Classic Cars,Medium,45,76.0,3420.0,3420.0,True
+10375,2005-02-03,2005,2,Feb,France,Emea,Planes,Medium,37,81.87,3029.19,3029.19,True
+10377,2005-02-09,2005,2,Feb,Finland,Emea,Classic Cars,Small,24,67.83,1627.92,1627.92,True
+10377,2005-02-09,2005,2,Feb,Finland,Emea,Classic Cars,Small,31,67.76,2100.56,2100.56,True
+10378,2005-02-10,2005,2,Feb,Spain,Emea,Classic Cars,Small,34,42.64,1449.76,1449.76,True
+10379,2005-02-10,2005,2,Feb,Spain,Emea,Vintage Cars,Small,27,49.3,1331.1,1331.1,True
+10378,2005-02-10,2005,2,Feb,Spain,Emea,Classic Cars,Medium,49,67.14,3289.86,3289.86,True
+10378,2005-02-10,2005,2,Feb,Spain,Emea,Classic Cars,Small,46,41.54,1910.84,1910.84,True
+10378,2005-02-10,2005,2,Feb,Spain,Emea,Classic Cars,Medium,43,96.49,4149.07,4149.07,True
+10378,2005-02-10,2005,2,Feb,Spain,Emea,Motorcycles,Medium,40,82.46,3298.4,3298.4,True
+10378,2005-02-10,2005,2,Feb,Spain,Emea,Classic Cars,Small,33,53.27,1757.91,1757.91,True
+10379,2005-02-10,2005,2,Feb,Spain,Emea,Classic Cars,Small,32,70.83,2266.56,2266.56,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Vintage Cars,Small,32,70.56,2257.92,2257.92,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Vintage Cars,Small,21,47.18,990.78,990.78,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Vintage Cars,Small,27,68.35,1845.45,1845.45,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Classic Cars,Small,44,36.29,1596.76,1596.76,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Vintage Cars,Small,27,93.16,2515.32,2515.32,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Classic Cars,Medium,44,79.06,3478.64,3478.64,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Vintage Cars,Medium,43,95.03,4086.29,4086.29,True
+10380,2005-02-16,2005,2,Feb,Spain,Emea,Classic Cars,Small,36,37.5,1350.0,1350.0,True
+10382,2005-02-17,2005,2,Feb,Usa,Unknown,Classic Cars,Small,25,88.0,2200.0,2200.0,True
+10382,2005-02-17,2005,2,Feb,Usa,Unknown,Classic Cars,Medium,34,95.35,3241.9,3241.9,True
+10382,2005-02-17,2005,2,Feb,Usa,Unknown,Trucks And Buses,Small,32,66.58,2130.56,2130.56,True
+10381,2005-02-17,2005,2,Feb,Usa,Unknown,Trucks And Buses,Small,35,48.62,1701.7,1701.7,True
+10381,2005-02-17,2005,2,Feb,Usa,Unknown,Vintage Cars,Small,40,68.08,2723.2,2723.2,True
+10381,2005-02-17,2005,2,Feb,Usa,Unknown,Vintage Cars,Small,25,52.83,1320.75,1320.75,True
+10381,2005-02-17,2005,2,Feb,Usa,Unknown,Trucks And Buses,Medium,48,98.0,4704.0,4704.0,True
+10382,2005-02-17,2005,2,Feb,Usa,Unknown,Classic Cars,Small,34,54.84,1864.56,1864.56,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Trains,Small,38,60.06,2282.28,2282.28,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Vintage Cars,Small,28,58.58,1640.24,1640.24,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Classic Cars,Small,22,91.76,2018.72,2018.72,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Classic Cars,Small,21,93.91,1972.11,1972.11,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Vintage Cars,Small,24,61.52,1476.48,1476.48,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Trucks And Buses,Small,32,53.18,1701.76,1701.76,True
+10383,2005-02-22,2005,2,Feb,Spain,Emea,Trains,Small,44,36.07,1587.08,1587.08,True
+10384,2005-02-23,2005,2,Feb,Usa,Unknown,Ships,Small,28,80.54,2255.12,2255.12,True
+10384,2005-02-23,2005,2,Feb,Usa,Unknown,Vintage Cars,Medium,43,97.87,4208.41,4208.41,True
+10385,2005-02-28,2005,2,Feb,Usa,Unknown,Vintage Cars,Medium,37,85.54,3164.98,3164.98,True
+10385,2005-02-28,2005,2,Feb,Usa,Unknown,Ships,Small,25,77.34,1933.5,1933.5,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Ships,Medium,37,93.01,3441.37,3441.37,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Medium,32,94.34,3018.88,3018.88,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Vintage Cars,Small,35,63.76,2231.6,2231.6,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Small,21,74.77,1570.17,1570.17,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Small,39,55.96,2182.44,2182.44,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Medium,37,83.84,3102.08,3102.08,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Small,33,41.71,1376.43,1376.43,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Vintage Cars,Small,22,57.55,1266.1,1266.1,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Ships,Small,29,85.76,2487.04,2487.04,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Medium,41,73.32,3006.12,3006.12,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Medium,50,63.34,3167.0,3167.0,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Ships,Medium,45,92.08,4143.6,4143.6,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Ships,Small,30,95.48,2864.4,2864.4,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Small,25,54.57,1364.25,1364.25,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Medium,50,87.15,4357.5,4357.5,True
+10386,2005-03-01,2005,3,Mar,Spain,Emea,Planes,Medium,44,86.4,3801.6,3801.6,True
+10387,2005-03-02,2005,3,Mar,Singapore,Japan,Motorcycles,Medium,44,94.9,4175.6,4175.6,True
+10389,2005-03-03,2005,3,Mar,Sweden,Emea,Motorcycles,Medium,49,81.4,3988.6,3988.6,True
+10389,2005-03-03,2005,3,Mar,Sweden,Emea,Classic Cars,Small,26,99.04,2575.04,2575.04,True
+10389,2005-03-03,2005,3,Mar,Sweden,Emea,Classic Cars,Medium,49,79.22,3881.78,3881.78,True
+10388,2005-03-03,2005,3,Mar,Usa,Unknown,Motorcycles,Small,50,44.51,2225.5,2225.5,True
+10389,2005-03-03,2005,3,Mar,Sweden,Emea,Classic Cars,Small,25,72.38,1809.5,1809.5,True
+10388,2005-03-03,2005,3,Mar,Usa,Unknown,Motorcycles,Small,21,86.77,1822.17,1822.17,True
+10389,2005-03-03,2005,3,Mar,Sweden,Emea,Classic Cars,Small,36,70.26,2529.36,2529.36,True
+10388,2005-03-03,2005,3,Mar,Usa,Unknown,Motorcycles,Medium,42,76.36,3207.12,3207.12,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Classic Cars,Small,34,43.05,1463.7,1463.7,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Vintage Cars,Small,26,78.11,2030.86,2030.86,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Classic Cars,Medium,36,93.77,3375.72,3375.72,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Motorcycles,Small,41,44.56,1826.96,1826.96,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Vintage Cars,Medium,31,98.99,3068.69,3068.69,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Motorcycles,Small,45,48.98,2204.1,2204.1,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Motorcycles,Small,35,65.13,2279.55,2279.55,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Classic Cars,Small,46,52.84,2430.64,2430.64,True
+10390,2005-03-04,2005,3,Mar,Usa,Unknown,Classic Cars,Small,30,82.42,2472.6,2472.6,True
+10391,2005-03-09,2005,3,Mar,Australia,Apac,Classic Cars,Small,37,46.9,1735.3,1735.3,True
+10391,2005-03-09,2005,3,Mar,Australia,Apac,Trucks And Buses,Small,44,38.5,1694.0,1694.0,True
+10391,2005-03-09,2005,3,Mar,Australia,Apac,Trucks And Buses,Small,29,85.1,2467.9,2467.9,True
+10391,2005-03-09,2005,3,Mar,Australia,Apac,Vintage Cars,Small,32,45.25,1448.0,1448.0,True
+10391,2005-03-09,2005,3,Mar,Australia,Apac,Trucks And Buses,Small,39,63.2,2464.8,2464.8,True
+10392,2005-03-10,2005,3,Mar,Austria,Emea,Vintage Cars,Small,29,86.92,2520.68,2520.68,True
+10392,2005-03-10,2005,3,Mar,Austria,Emea,Vintage Cars,Small,37,59.96,2218.52,2218.52,True
+10394,2005-03-15,2005,3,Mar,Spain,Emea,Classic Cars,Small,46,38.9,1789.4,1789.4,True
+10394,2005-03-15,2005,3,Mar,Spain,Emea,Trains,Small,30,60.28,1808.4,1808.4,True
+10394,2005-03-15,2005,3,Mar,Spain,Emea,Trucks And Buses,Small,36,62.77,2259.72,2259.72,True
+10394,2005-03-15,2005,3,Mar,Spain,Emea,Classic Cars,Small,31,50.29,1558.99,1558.99,True
+10395,2005-03-17,2005,3,Mar,France,Emea,Classic Cars,Small,33,69.12,2280.96,2280.96,True
+10396,2005-03-23,2005,3,Mar,Usa,Unknown,Trains,Small,24,89.75,2154.0,2154.0,True
+10396,2005-03-23,2005,3,Mar,Usa,Unknown,Vintage Cars,Small,27,83.2,2246.4,2246.4,True
+10396,2005-03-23,2005,3,Mar,Usa,Unknown,Vintage Cars,Medium,37,90.57,3351.09,3351.09,True
+10396,2005-03-23,2005,3,Mar,Usa,Unknown,Ships,Small,39,66.67,2600.13,2600.13,True
+10397,2005-03-28,2005,3,Mar,France,Emea,Ships,Small,34,62.24,2116.16,2116.16,True
+10397,2005-03-28,2005,3,Mar,France,Emea,Ships,Small,32,80.55,2577.6,2577.6,True
+10397,2005-03-28,2005,3,Mar,France,Emea,Ships,Small,22,66.5,1463.0,1463.0,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Small,34,40.22,1367.48,1367.48,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Medium,45,78.25,3521.25,3521.25,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Small,34,76.88,2613.92,2613.92,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Small,29,65.6,1902.4,1902.4,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Small,28,57.55,1611.4,1611.4,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Medium,36,87.36,3144.96,3144.96,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Vintage Cars,Small,34,71.67,2436.78,2436.78,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Vintage Cars,Small,49,36.66,1796.34,1796.34,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Vintage Cars,Small,22,67.41,1483.02,1483.02,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Ships,Small,28,72.26,2023.28,2023.28,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Medium,47,87.69,4121.43,4121.43,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Small,22,86.76,1908.72,1908.72,True
+10398,2005-03-30,2005,3,Mar,France,Emea,Planes,Small,41,68.24,2797.84,2797.84,True
+10400,2005-04-01,2005,4,Apr,Usa,Unknown,Ships,Medium,46,87.8,4038.8,4038.8,True
+10400,2005-04-01,2005,4,Apr,Usa,Unknown,Ships,Small,30,74.84,2245.2,2245.2,True
+10400,2005-04-01,2005,4,Apr,Usa,Unknown,Planes,Small,20,56.12,1122.4,1122.4,True
+10400,2005-04-01,2005,4,Apr,Usa,Unknown,Vintage Cars,Medium,42,72.96,3064.32,3064.32,True
+10400,2005-04-01,2005,4,Apr,Usa,Unknown,Planes,Small,24,61.66,1479.84,1479.84,True
+10400,2005-04-01,2005,4,Apr,Usa,Unknown,Vintage Cars,Small,38,57.2,2173.6,2173.6,True
+10402,2005-04-07,2005,4,Apr,France,Emea,Motorcycles,Medium,59,87.6,5168.4,5168.4,True
+10402,2005-04-07,2005,4,Apr,France,Emea,Motorcycles,Medium,55,55.72,3064.6,3064.6,True
+10403,2005-04-08,2005,4,Apr,Uk,Emea,Motorcycles,Small,27,79.65,2150.55,2150.55,True
+10403,2005-04-08,2005,4,Apr,Uk,Emea,Motorcycles,Small,31,68.34,2118.54,2118.54,True
+10403,2005-04-08,2005,4,Apr,Uk,Emea,Motorcycles,Small,36,52.22,1879.92,1879.92,True
+10403,2005-04-08,2005,4,Apr,Uk,Emea,Motorcycles,Small,30,40.23,1206.9,1206.9,True
+10405,2005-04-14,2005,4,Apr,France,Emea,Classic Cars,Medium,61,73.92,4509.12,4509.12,True
+10405,2005-04-14,2005,4,Apr,France,Emea,Classic Cars,Large,97,93.28,9048.16,9048.16,True
+10405,2005-04-14,2005,4,Apr,France,Emea,Classic Cars,Small,47,44.56,2094.32,2094.32,True
+10408,2005-04-22,2005,4,Apr,Japan,Japan,Vintage Cars,Small,15,36.93,553.95,553.95,True
+10409,2005-04-23,2005,4,Apr,Singapore,Apac,Vintage Cars,Small,61,29.54,1801.94,1801.94,True
+10411,2005-05-01,2005,5,May,Canada,Unknown,Vintage Cars,Small,35,59.87,2095.45,2095.45,True
+10411,2005-05-01,2005,5,May,Canada,Unknown,Trucks And Buses,Small,27,69.16,1867.32,1867.32,True
+10412,2005-05-03,2005,5,May,Spain,Emea,Trucks And Buses,Medium,56,98.18,5498.08,5498.08,True
+10412,2005-05-03,2005,5,May,Spain,Emea,Classic Cars,Small,30,36.07,1082.1,1082.1,True
+10412,2005-05-03,2005,5,May,Spain,Emea,Classic Cars,Small,21,52.6,1104.6,1104.6,True
+10412,2005-05-03,2005,5,May,Spain,Emea,Trucks And Buses,Small,19,48.7,925.3,925.3,True
+10412,2005-05-03,2005,5,May,Spain,Emea,Trucks And Buses,Small,47,61.99,2913.53,2913.53,True
+10413,2005-05-05,2005,5,May,Usa,Unknown,Trains,Small,24,49.71,1193.04,1193.04,True
+10413,2005-05-05,2005,5,May,Usa,Unknown,Trains,Medium,51,63.85,3256.35,3256.35,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Medium,48,74.62,3581.76,3581.76,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Small,43,62.19,2674.17,2674.17,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Vintage Cars,Small,26,61.22,1591.72,1591.72,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Vintage Cars,Small,37,51.93,1921.41,1921.41,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Small,18,75.06,1351.08,1351.08,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Small,15,98.84,1482.6,1482.6,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Small,23,91.34,2100.82,2100.82,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Motorcycles,Small,32,87.6,2803.2,2803.2,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Small,39,67.2,2620.8,2620.8,True
+10416,2005-05-10,2005,5,May,Italy,Emea,Planes,Medium,47,88.63,4165.61,4165.61,True
+10419,2005-05-17,2005,5,May,Austria,Emea,Classic Cars,Small,15,42.67,640.05,640.0500000000001,True
+10419,2005-05-17,2005,5,May,Austria,Emea,Classic Cars,Medium,39,83.93,3273.27,3273.27,True
+10419,2005-05-17,2005,5,May,Austria,Emea,Classic Cars,Medium,34,90.17,3065.78,3065.78,True
+10419,2005-05-17,2005,5,May,Austria,Emea,Classic Cars,Small,55,52.66,2896.3,2896.3,True

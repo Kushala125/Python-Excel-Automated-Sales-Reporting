@@ -1,0 +1,13 @@
+transaction_id,order_date,region,product,category,unit_price,quantity,discount,customer_type,payment_method
+TXN1001,2024-01-03,London,Laptop,Electronics,850,1,0.1,B2B,Card
+TXN1002,2024-01-03,Manchester,Mouse,Electronics,25,2,,B2C,Cash
+TXN1003,2024/01/04,Birmingham,Office Chair,Furniture,180,1,0.05,B2B,Card
+TXN1004,04-01-2024,London,Desk,Furniture,300,1,0.0,B2C,Card
+TXN1005,2024-01-05,Leeds,Monitor,Electronics,220,2,0.15,B2B,Card
+TXN1006,2024-01-05,Leeds,Monitor,Electronics,220,2,0.15,B2B,Card
+TXN1007,2024-01-06,London,Keyboard,Electronics,45,3,,B2C,Cash
+TXN1008,2024-01-07,Bristol,Desk,Furniture,,1,0.1,B2C,Card
+TXN1009,2024-01-08,Manchester,Laptop,Electronics,850,1,0.05,B2B,Card
+TXN1010,2024-01-08,Birmingham,Mouse,Electronics,25,4,0.0,B2C,Card
+TXN1011,2024-01-09,London,Office Chair,Furniture,180,2,0.1,B2B,Card
+TXN1012,2024-01-09,Leeds,Keyboard,Electronics,45,1,,B2C,Cash
